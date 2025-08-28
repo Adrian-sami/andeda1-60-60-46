@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <!-- Note: URLs are relative to your deployed domain -->
+  <!-- Update lastmod when content changes -->
+  
+  <url>
+    <loc>/</loc>
+    <lastmod>2025-08-10</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="/?lng=en"/>
+    <xhtml:link rel="alternate" hreflang="es" href="/?lng=es"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="/?lng=fr"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="/"/>
+  </url>
+
+  <url>
+    <loc>/about</loc>
+    <lastmod>2025-08-10</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="/about?lng=en"/>
+    <xhtml:link rel="alternate" hreflang="es" href="/about?lng=es"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="/about?lng=fr"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="/about"/>
+  </url>
+
+  <url>
+    <loc>/services</loc>
+    <lastmod>2025-08-10</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="/services?lng=en"/>
+    <xhtml:link rel="alternate" hreflang="es" href="/services?lng=es"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="/services?lng=fr"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="/services"/>
+  </url>
+
+  <url>
+    <loc>/analytics</loc>
+    <lastmod>2025-08-10</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="/analytics?lng=en"/>
+    <xhtml:link rel="alternate" hreflang="es" href="/analytics?lng=es"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="/analytics?lng=fr"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="/analytics"/>
+  </url>
+
+  <url>
+    <loc>/contact</loc>
+    <lastmod>2025-08-10</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="/contact?lng=en"/>
+    <xhtml:link rel="alternate" hreflang="es" href="/contact?lng=es"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="/contact?lng=fr"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="/contact"/>
+  </url>
+
+  <url>
+    <loc>/privacy-policy</loc>
+    <lastmod>2025-08-10</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="/privacy-policy?lng=en"/>
+    <xhtml:link rel="alternate" hreflang="es" href="/privacy-policy?lng=es"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="/privacy-policy?lng=fr"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="/privacy-policy"/>
+  </url>
+
+  <url>
+    <loc>/terms-of-service</loc>
+    <lastmod>2025-08-10</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="/terms-of-service?lng=en"/>
+    <xhtml:link rel="alternate" hreflang="es" href="/terms-of-service?lng=es"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="/terms-of-service?lng=fr"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="/terms-of-service"/>
+  </url>
+</urlset>

@@ -1,0 +1,1985 @@
+{
+  "nav": {
+    "home": "Accueil",
+    "services": "Services",
+    "analytics": "Analytique",
+    "about": "À Propos",
+    "contact": "Contact",
+    "whoWeHelp": "Audiences"
+  },
+  "common": {
+    "scheduleConsultation": "Programmer une Consultation",
+    "getInTouch": "Entrer en Contact",
+    "businessHours": "Heures d'Ouverture",
+    "email": "E-mail",
+    "phone": "Téléphone",
+    "whatsapp": "WhatsApp",
+    "office": "Bureau",
+    "learnMore": "En Savoir Plus",
+    "showLess": "Montrer Moins",
+    "bookNow": "Réserver Maintenant",
+    "schedule": "Réserver",
+    "whatsappMessage": {
+      "greeting": "Bonjour ANDEDA! 👋\n\nJe suis intéressé par vos services et j'aimerais en savoir plus sur la façon dont vous pouvez aider mon entreprise à croître.\n\nJe suis particulièrement intéressé par:",
+      "services": "• Solutions d'Analyse de Données et IA\n• Services de Conseil d'Entreprise\n• Intelligence Financière et Planification\n• Recherche de Marché et Stratégie",
+      "closing": "Pourriez-vous fournir plus d'informations sur vos services et programmer une consultation?\n\nJ'ai hâte de m'associer avec des experts qui peuvent fournir des insights exploitables et générer de vrais résultats commerciaux.\n\nMerci! 🙏",
+      "serviceSpecific": "Bonjour ANDEDA! 👋\n\nJe suis intéressé par votre service \"{service}\".\n\nJ'aimerais spécifiquement en savoir plus sur:\n\n{details}\n\nPourriez-vous fournir plus d'informations sur les prix et comment nous pouvons commencer?\n\nMerci! 🙏"
+    }
+  },
+  "services": {
+    "title": "Services",
+    "headerPrefix": "",
+    "headerMain": "Services",
+    "subtitle": "Services d'analyse et de conseil complets conçus pour transformer vos données en avantages concurrentiels stratégiques.",
+    "walkAwayWith": "Vous Repartirez Avec",
+    "whoWeAre": {
+      "title": "Qui Nous Sommes",
+      "description": "ANDEDA est une société de conseil axée sur les données, spécialisée dans la transformation d'informations complexes en insights stratégiques. Notre équipe d'analystes et de consultants expérimentés travaille en étroite collaboration avec les organisations pour découvrir des renseignements exploitables qui stimulent la croissance et l'excellence opérationnelle.",
+      "description1": "ANDEDA est une entreprise leader en analytique de données et en conseil qui rend les données complexes faciles à comprendre et à utiliser. Nous fournissons des solutions intelligentes basées sur les données et travaillons en étroite collaboration avec nos clients pour les aider à prendre de meilleures décisions et à croître.",
+      "description2": "Nous accompagnons des institutions financières, des startups, des institutions gouvernementales, des établissements académiques, des PME ainsi que des ONG et organisations à but non lucratif dans des secteurs tels que la finance, la santé, le retail, l'industrie, la technologie et les télécommunications — en les aidant à exploiter la puissance de leurs données pour un succès durable."
+    },
+    "dataAnalytics": {
+      "title": "Analyse de Données",
+      "description": "Transformez les données brutes en insights significatifs qui stimulent une prise de décision plus intelligente. Nous appliquons des modèles statistiques, une analyse des tendances et des visualisations personnalisées pour révéler des modèles cachés et des résultats futurs.",
+      "subServices": {
+        "performanceAnalysis": {
+          "title": "Analyse de Performance",
+          "description": "Analyse des données de ventes, clients et opérations pour identifier les tendances et les opportunités d'optimisation dans toute votre entreprise.",
+          "benefits": [
+            "Insights clairs sur la performance et identification des tendances",
+            "Identification des goulots d'étranglement et axes d'amélioration",
+            "Analyse comparative concurrentielle et positionnement",
+            "Recommandations actionnables pour l'optimisation de la croissance"
+          ]
+        },
+        "forecasting": {
+          "title": "Prévisions & Tendances",
+          "description": "Utilisez des modèles prédictifs pour anticiper les résultats futurs, les tendances saisonnières et les opportunités de marché pour la planification stratégique.",
+          "benefits": [
+            "Prévisions fiables avec intervalles de confiance",
+            "Reconnaissance et planification des schémas saisonniers",
+            "Évaluation des risques et systèmes d'alerte précoce",
+            "Conseils stratégiques pour l'investissement et le timing"
+          ]
+        },
+        "visualReporting": {
+          "title": "Rapports Visuels",
+          "description": "Créez des tableaux de bord interactifs et des rapports visuels qui transforment des données complexes en insights faciles à comprendre.",
+          "benefits": [
+            "Tableaux de bord exécutifs avec mises à jour en temps réel",
+            "Plateformes de reporting adaptées au mobile",
+            "Génération automatique d'insights et alertes",
+            "Visualisations personnalisées pour les parties prenantes"
+          ]
+        },
+        "customReporting": {
+          "title": "Solutions d'Analytique Personnalisées",
+          "description": "Construisez une infrastructure analytique sur mesure et des systèmes de reporting automatisés adaptés à vos besoins spécifiques.",
+          "benefits": [
+            "Plateformes et outils d'analytique personnalisés",
+            "Mise en place de pipelines de données automatisés",
+            "Intégration avec les systèmes métier existants",
+            "Formation complète et support continu"
+          ]
+        }
+      }
+    },
+    "consulting": {
+      "title": "Conseil d'Entreprise",
+      "description": "Conseil stratégique fondé sur les données et l'expertise opérationnelle. Naviguez les défis, optimisez les opérations et mettez en œuvre des stratégies de croissance.",
+      "subServices": {
+        "dataBasedConsulting": {
+          "title": "Conseil Basé sur les Données",
+          "description": "Analyser les données de votre entreprise pour fournir des recommandations stratégiques basées sur les indicateurs de performance et le positionnement marché.",
+          "benefits": [
+            "Recommandations stratégiques fondées sur des preuves",
+            "Stratégies d'optimisation des performances",
+            "Analyse du positionnement et de la concurrence",
+            "Plans d'action axés sur le ROI avec suivi"
+          ]
+        },
+        "operationalConsulting": {
+          "title": "Conseil Opérationnel",
+          "description": "Évaluer les opérations, cartographier les processus et identifier les pistes d'amélioration pour accroître la productivité et réduire les coûts.",
+          "benefits": [
+            "Audit opérationnel et cartographie des processus",
+            "Optimisation des workflows et automatisation",
+            "Plans d'allocation des ressources et de réduction des coûts",
+            "Mesure de performance et systèmes d'indicateurs (KPI)"
+          ]
+        },
+        "managementConsulting": {
+          "title": "Conseil en Gestion",
+          "description": "Accompagner la direction pour améliorer l'efficacité organisationnelle, la planification stratégique et les processus décisionnels.",
+          "benefits": [
+            "Évaluation de l'efficacité du leadership",
+            "Optimisation de la conception organisationnelle",
+            "Planification stratégique et définition d'objectifs",
+            "Gestion du changement et développement des équipes"
+          ]
+        },
+        "complianceStatusReview": {
+          "title": "Revue de Conformité",
+          "description": "Réaliser des audits de conformité, évaluer les exigences réglementaires et mettre en place des systèmes de management conformes.",
+          "benefits": [
+            "Audit de conformité complet",
+            "Cartographie des exigences réglementaires",
+            "Stratégies de mitigation des risques",
+            "Systèmes d'accompagnement pour la conformité continue"
+          ]
+        }
+      }
+    },
+    "financialIntelligence": {
+      "title": "Intelligence Financière",
+      "description": "Optimisez la trésorerie, gérez les risques et prenez des décisions financières éclairées. Analyse et planification financières pour une croissance durable.",
+      "subServices": {
+        "financialHealthReview": {
+          "title": "Revue de Santé Financière",
+          "description": "Analyser les états financiers, les flux de trésorerie et les indicateurs clés; comparer aux références sectorielles et identifier des optimisations.",
+          "benefits": [
+            "Évaluation des forces et faiblesses financières",
+            "Comparaison avec les benchmarks du secteur",
+            "Stratégies d'optimisation des coûts et des revenus",
+            "Tableau de bord de santé financière avec insights"
+          ]
+        },
+        "budgetPlanningForecasting": {
+          "title": "Planification Budgétaire & Prévisions",
+          "description": "Élaborer des budgets réalistes et des prévisions financières à partir de données historiques et de projections de marché.",
+          "benefits": [
+            "Cadre budgétaire stratégique",
+            "Prévisions précises avec scénarios",
+            "Suivi et analyse du budget en temps réel",
+            "Contrôle financier renforcé"
+          ]
+        },
+        "cashFlowManagement": {
+          "title": "Gestion de Trésorerie",
+          "description": "Mettre en place des systèmes de suivi des encaissements/décaissements et des modèles de prévision de liquidité.",
+          "benefits": [
+            "Prévision avancée des flux de trésorerie",
+            "Stratégies d'échéancier de paiements et recouvrements",
+            "Optimisation du fonds de roulement",
+            "Systèmes d'alerte précoce"
+          ]
+        },
+        "riskComplianceSupport": {
+          "title": "Gestion des Risques & Conformité",
+          "description": "Évaluer les risques financiers et la conformité réglementaire; développer des stratégies de mitigation et de suivi.",
+          "benefits": [
+            "Matrice d'évaluation des risques",
+            "Documentation d'audit de conformité",
+            "Optimisation des contrôles internes",
+            "Préparation renforcée aux audits"
+          ]
+        }
+      }
+    },
+    "marketResearch": {
+      "title": "Recherche de Marché et Stratégie",
+      "description": "Recherche stratégique et veille concurrentielle pour comprendre le paysage sectoriel, identifier des opportunités et bâtir des stratégies gagnantes.",
+      "subServices": {
+        "industryMarketReviews": {
+          "title": "Analyses d'Industrie & Marché",
+          "description": "Évaluer la taille de marché, cartographier la concurrence et identifier les tendances de croissance pour un positionnement stratégique.",
+          "benefits": [
+            "Analyse du paysage sectoriel et dimensionnement",
+            "Veille concurrentielle et positionnement",
+            "Évaluation des opportunités de croissance",
+            "Vue d'ensemble réglementaire pour la planification"
+          ]
+        },
+        "customerInsights": {
+          "title": "Insights Clients",
+          "description": "Mettre en œuvre des recherches clients: analyse comportementale, segmentation et cartographie des préférences.",
+          "benefits": [
+            "Segmentation client avec profils",
+            "Parcours client: cartographie et optimisation",
+            "Analyse des facteurs de décision d'achat",
+            "Stratégies de satisfaction et fidélisation"
+          ]
+        },
+        "startupFeasibilitySupport": {
+          "title": "Études de Faisabilité Start-up",
+          "description": "Évaluer la viabilité: validation marché, modèle économique et projections de revenus.",
+          "benefits": [
+            "Validation du marché et évaluation d'opportunités",
+            "Viabilité du modèle avec projections",
+            "Identification d'avantages compétitifs",
+            "Faisabilité financière et besoins de financement"
+          ]
+        },
+        "investorPartnerSupport": {
+          "title": "Support Investisseurs & Partenaires",
+          "description": "Préparer présentations d'investissement et dossiers de due diligence: analyses de marché, positionnement et projections.",
+          "benefits": [
+            "Pitch d'investissement professionnel",
+            "Dossiers de due diligence avec projections",
+            "Quantification de l'opportunité de marché",
+            "Stratégie de partenariat et alignement de valeur"
+          ]
+        }
+      }
+    }
+  },
+  "problemSolution": {
+    "title": "Quelques problèmes courants et solutions que nous pouvons offrir",
+    "subtitle": "Chaque problème que nous abordons est associé à des solutions spécifiques avec des résultats mesurables. Voyez exactement comment nous transformons vos défis commerciaux en avantages concurrentiels.",
+    "categories": {
+      "dataAnalytics": "Analyse de Données",
+      "consulting": "Conseil",
+      "financialIntelligence": "Intelligence Financière",
+      "marketResearch": "Recherche de Marché"
+    },
+    "toggles": {
+      "businessProblems": "Problèmes d'Entreprise",
+      "checkSolutions": "Voir Solutions"
+    },
+    "sections": {
+      "businessProblems": "Problèmes d'Entreprise", 
+      "availableSolutions": "Solutions Disponibles"
+    },
+    "cards": {
+      "keyPainPoints": "Points de Douleur Clés:",
+      "identifiedProblem": "Problème Identifié",
+      "deliverables": "Livrables:",
+      "caseStudy": "Étude de Cas:",
+      "solutionAvailable": "Solution Disponible",
+      "solves": "Résout:"
+    },
+    "urgencyLevels": {
+      "high": "Élevé",
+      "medium": "Moyen",
+      "low": "Faible"
+    },
+    "note": "Note : Nous ne sommes pas limités aux exemples ci-dessous — ils sont juste pour susciter des idées. Nous pouvons faire plus selon vos besoins."
+  },
+  "problemSolutionData": {
+    "problems": {
+      "data-fragmentation": {
+        "title": "Données Dispersées Dans Plusieurs Systèmes",
+        "description": "Les organisations luttent avec des données réparties dans des fichiers Excel, différents systèmes logiciels et processus manuels, rendant impossible d'obtenir une image complète de l'entreprise.",
+        "painPoints": [
+          "Les équipes perdent 40+ heures mensuelles à créer des rapports manuellement",
+          "Des données incohérentes mènent à de mauvaises décisions commerciales",
+          "Impossible de suivre la performance entre départements",
+          "Le leadership manque de visibilité en temps réel sur les opérations"
+        ]
+      },
+      "manual-reporting-chaos": {
+        "title": "Les Rapports Manuels Prennent Trop de Temps",
+        "description": "Les équipes financières et opérationnelles passent des jours chaque mois à construire manuellement des rapports qui sont obsolètes au moment de leur présentation.",
+        "painPoints": [
+          "Les rapports mensuels prennent 3-5 jours à compiler",
+          "Erreurs de précision des données dans 30%+ des rapports manuels",
+          "Impossible de prendre des décisions rapides à cause d'insights retardés",
+          "Épuisement de l'équipe par les tâches répétitives de reporting"
+        ]
+      },
+      "no-forecasting-capability": {
+        "title": "Voler Aveuglément Sans Visibilité Future",
+        "description": "Les organisations prennent des décisions critiques basées sur l'intuition plutôt que sur des prévisions basées sur les données concernant les tendances du marché, le flux de trésorerie et la performance commerciale.",
+        "painPoints": [
+          "Impossible de prédire les problèmes de flux de trésorerie avant qu'ils n'arrivent",
+          "Aucun système d'alerte précoce pour les défis commerciaux",
+          "Planification budgétaire basée sur des suppositions",
+          "Modèles saisonniers non compris ou exploités"
+        ]
+      },
+      "strategic-decision-paralysis": {
+        "title": "Le Leadership Lutte avec les Décisions Stratégiques",
+        "description": "Les dirigeants d'entreprise manquent de cadres et d'insights basés sur les données pour prendre des décisions stratégiques confiantes sur la croissance, les opérations et le positionnement marché.",
+        "painPoints": [
+          "Décisions retardées à cause de paralysie d'analyse",
+          "Les initiatives stratégiques échouent à cause d'une planification déficiente",
+          "Aucune mesure claire du succès stratégique",
+          "L'équipe de direction n'est pas alignée sur les priorités"
+        ]
+      },
+      "operational-inefficiencies": {
+        "title": "Gaspillage Opérationnel et Inefficacités",
+        "description": "Les organisations perdent de l'argent à travers des processus inefficaces, une mauvaise allocation des ressources et un manque de visibilité opérationnelle.",
+        "painPoints": [
+          "Les processus prennent plus de temps que nécessaire",
+          "Ressources allouées aux mauvaises priorités",
+          "Aucune visibilité sur les goulots d'étranglement opérationnels",
+          "Équipes travaillant en silos sans coordination"
+        ]
+      },
+      "compliance-risks": {
+        "title": "Lacunes et Risques de Conformité Réglementaire",
+        "description": "Les organisations luttent pour rester conformes aux réglementations en évolution, risquant des pénalités, des dommages à la réputation et des perturbations opérationnelles.",
+        "painPoints": [
+          "Peu clair sur les exigences de conformité actuelles",
+          "Aucun suivi systématique de la conformité",
+          "Risque de pénalités et amendes réglementaires",
+          "La préparation d'audit prend des semaines à préparer"
+        ]
+      },
+      "cash-flow-uncertainty": {
+        "title": "Gestion de Flux de Trésorerie Imprévisible",
+        "description": "Les entreprises luttent avec la planification du flux de trésorerie, menant à des pénuries de financement, des opportunités manquées et du stress financier.",
+        "painPoints": [
+          "Impossible de prédire les pénuries de trésorerie à l'avance",
+          "Difficulté à gérer les modèles saisonniers de flux de trésorerie",
+          "Paiements tardifs des clients perturbant les opérations",
+          "Aucune visibilité claire sur le timing du flux de trésorerie"
+        ]
+      },
+      "financial-blind-spots": {
+        "title": "Faiblesses et Points Aveugles Financiers Cachés",
+        "description": "Les organisations manquent d'évaluation complète de la santé financière, ratant les signaux d'alerte précoce de problèmes financiers.",
+        "painPoints": [
+          "Impossible d'identifier les faiblesses financières tôt",
+          "Aucune comparaison de référence avec les standards de l'industrie",
+          "Coûts cachés grignotant les marges de profit",
+          "Décisions d'investissement prises sans analyse financière appropriée"
+        ]
+      },
+      "budget-planning-chaos": {
+        "title": "Planification et Contrôle Budgétaire Inefficace",
+        "description": "Les organisations luttent avec la création, le suivi et l'ajustement réaliste du budget, menant à une mauvaise gestion financière.",
+        "painPoints": [
+          "Budgets constamment au-dessus ou en dessous des résultats réels",
+          "Aucune capacité de suivi budgétaire en temps réel",
+          "Impossible d'ajuster les budgets basés sur des conditions changeantes",
+          "La planification budgétaire prend des mois avec une faible précision"
+        ]
+      },
+      "market-opportunity-blindness": {
+        "title": "Manquer les Opportunités et Tendances du Marché",
+        "description": "Les organisations manquent d'intelligence de marché pour identifier les opportunités de croissance, comprendre les besoins des clients et se positionner compétitivement.",
+        "painPoints": [
+          "Impossible d'identifier les opportunités de marché émergentes",
+          "Aucune compréhension des besoins et préférences des clients",
+          "Positionnement concurrentiel basé sur des suppositions",
+          "Développement de produit/service sans validation de marché"
+        ]
+      },
+      "startup-validation-risk": {
+        "title": "Idées de Startup Sans Validation de Marché",
+        "description": "Les entrepreneurs investissent temps et argent dans des idées d'entreprise sans recherche de marché appropriée et analyse de faisabilité.",
+        "painPoints": [
+          "Aucune validation de la demande de marché pour l'idée",
+          "Identification du client cible peu claire",
+          "Aucune analyse concurrentielle ou stratégie de différenciation",
+          "Projections financières basées sur l'optimisme plutôt que sur les données"
+        ]
+      },
+      "investor-readiness-gap": {
+        "title": "Pas Prêt pour l'Investissement ou le Partenariat",
+        "description": "Les entreprises en croissance manquent de matériaux professionnels et d'analyse de marché nécessaires pour attirer des investisseurs ou des partenaires stratégiques.",
+        "painPoints": [
+          "Aucun matériel professionnel de présentation d'investissement",
+          "Impossible de quantifier la taille de l'opportunité de marché",
+          "Manque d'analyse concurrentielle et de positionnement",
+          "Aucune stratégie de croissance claire avec projections financières"
+        ]
+      }
+    },
+    "audiences": {
+      "SMEs": "Petites et Moyennes Entreprises",
+      "Startups": "Startups",
+      "Financial Institutions": "Institutions Financières",
+      "Government": "Gouvernement",
+      "NGOs": "ONGs",
+      "Manufacturing": "Industrie",
+      "Healthcare": "Santé",
+      "Retail": "Commerce de Détail",
+      "Product Companies": "Entreprises de Produits",
+      "Entrepreneurs": "Entrepreneurs",
+      "Investors": "Investisseurs",
+      "Growth Companies": "Entreprises en Croissance"
+    },
+    "solutions": {
+      "data-analytics": {
+        "visualReporting": {
+          "specificSolution": "Système de Tableau de Bord Intégré",
+          "deliverables": [
+            "Intégration automatisée des données de tous les systèmes",
+            "Tableau de bord d'entreprise en temps réel",
+            "Interface de reporting adaptée aux mobiles",
+            "Formation pour votre équipe"
+          ],
+          "caseStudyExample": "PME kényane a réduit le temps de reporting de 40 heures à 2 heures par mois, augmenté les revenus de 25% grâce à une meilleure visibilité"
+        },
+        "dataIntegration": {
+          "specificSolution": "Solution d'Entrepôt de Données d'Entreprise",
+          "deliverables": [
+            "Configuration d'entrepôt de données centralisé",
+            "Processus ETL pour toutes les sources de données",
+            "Cadre de qualité et validation des données",
+            "Migration et nettoyage des données historiques",
+            "Protocoles de gouvernance et sécurité des données"
+          ],
+          "caseStudyExample": "Entreprise manufacturière nigériane a unifié 12 sources de données, réduit les erreurs de reporting de 90%, amélioré la vitesse de décision de 60%"
+        },
+        "customReporting": {
+          "specificSolution": "Système de Reporting Automatisé",
+          "deliverables": [
+            "Rapports mensuels/hebdomadaires automatisés",
+            "Validation des données et vérifications de précision",
+            "Modèles de rapports pour différentes parties prenantes",
+            "Automatisation de distribution par email"
+          ],
+          "caseStudyExample": "Fintech nigériane a économisé 120 heures par mois, réduit les erreurs de 95%, libéré l'équipe pour le travail stratégique"
+        },
+        "forecasting": {
+          "specificSolution": "Système d'Analyse Prédictive",
+          "deliverables": [
+            "Modèles de prévision de flux de trésorerie",
+            "Algorithmes de prédiction des ventes",
+            "Analyse des tendances saisonnières",
+            "Système d'alerte d'avertissement précoce"
+          ],
+          "caseStudyExample": "Détaillant ghanéen a évité une crise de trésorerie de 50K$, augmenté les profits de 30% grâce à l'optimisation saisonnière"
+        }
+      },
+      "consulting": {
+        "dataBasedConsulting": {
+          "specificSolution": "Cadre de Décision Stratégique",
+          "deliverables": [
+            "Évaluation stratégique basée sur les données",
+            "Cadre et processus de prise de décision",
+            "Système de suivi KPI pour l'exécution de stratégie",
+            "Processus de révision stratégique trimestriel"
+          ],
+          "caseStudyExample": "PME tanzanienne a atteint 40% de croissance des revenus après mise en œuvre du cadre stratégique"
+        },
+        "operationalConsulting": {
+          "specificSolution": "Programme d'Excellence Opérationnelle",
+          "deliverables": [
+            "Cartographie et optimisation des processus",
+            "Optimisation de l'allocation des ressources",
+            "Système de mesure de performance",
+            "Plan d'amélioration de la productivité de l'équipe"
+          ],
+          "caseStudyExample": "Manufacturier kényan a réduit les coûts de 35%, amélioré le temps de livraison de 50%"
+        },
+        "complianceStatusReview": {
+          "specificSolution": "Système de Gestion de Conformité",
+          "deliverables": [
+            "Audit de conformité complet",
+            "Analyse des écarts et plan de remédiation",
+            "Système de suivi de conformité continu",
+            "Préparation de préparation d'audit"
+          ],
+          "caseStudyExample": "Banque nigériane a évité 200K$ d'amendes réglementaires, amélioré la note d'audit"
+        }
+      },
+      "financial-intelligence": {
+        "cashFlowManagement": {
+          "specificSolution": "Centre de Commande de Flux de Trésorerie",
+          "deliverables": [
+            "Prévision de flux de trésorerie sur 13 semaines",
+            "Optimisation de la planification des paiements",
+            "Plan d'amélioration de collecte des clients",
+            "Système de prévention de crise de flux de trésorerie"
+          ],
+          "caseStudyExample": "Société commerciale ghanéenne a évité la faillite, amélioré la position de trésorerie de 100K$"
+        },
+        "financialHealthReview": {
+          "specificSolution": "Évaluation de Santé Financière",
+          "deliverables": [
+            "Tableau de bord complet de santé financière",
+            "Comparaison de référence de l'industrie",
+            "Feuille de route d'amélioration financière",
+            "Système de suivi financier mensuel"
+          ],
+          "caseStudyExample": "PME tanzanienne a identifié des coûts cachés d'une valeur de 30K$ annuellement, amélioré les marges de profit de 20%"
+        },
+        "budgetPlanningForecasting": {
+          "specificSolution": "Système de Gestion Budgétaire Intelligent",
+          "deliverables": [
+            "Cadre budgétaire annuel avec scénarios",
+            "Tableau de bord de suivi budgétaire mensuel",
+            "Protocoles d'analyse de variance et d'ajustement",
+            "Automatisation des rapports de performance budgétaire"
+          ],
+          "caseStudyExample": "ONG kényane a amélioré la précision budgétaire de 85%, réduit le temps de planification de 70%"
+        }
+      },
+      "market-research": {
+        "industryMarketReviews": {
+          "specificSolution": "Plateforme d'Intelligence de Marché",
+          "deliverables": [
+            "Analyse et dimensionnement du paysage industriel",
+            "Intelligence concurrentielle et positionnement",
+            "Évaluation des opportunités de marché",
+            "Analyse et prévision des tendances de croissance"
+          ],
+          "caseStudyExample": "Startup technologique nigériane a identifié une opportunité de marché de 2M$, sécurisé un financement Série A"
+        },
+        "startupFeasibilitySupport": {
+          "specificSolution": "Cadre de Validation de Startup",
+          "deliverables": [
+            "Validation de marché et évaluation de la demande",
+            "Analyse de viabilité du modèle d'affaires",
+            "Identification d'avantage concurrentiel",
+            "Faisabilité financière et projections de financement"
+          ],
+          "caseStudyExample": "Startup ghanéenne a validé la demande de marché, réduit le risque de lancement de 80%"
+        },
+        "investorPartnerSupport": {
+          "specificSolution": "Package de Préparation à l'Investissement",
+          "deliverables": [
+            "Développement de pitch d'investissement professionnel",
+            "Packages de due diligence avec projections",
+            "Quantification de l'opportunité de marché",
+            "Stratégie de partenariat et alignement de valeur"
+          ],
+          "caseStudyExample": "Entreprise tanzanienne a levé 500K$ de financement de démarrage après optimisation du pitch"
+        }
+      }
+    }
+  },
+  "marketFocus": {
+    "title": "Ce Qui Rend ANDEDA Différent",
+    "subtitle": "Notre positionnement unique sur le marché africain de l'analytique et du conseil",
+    "getAssessment": "Obtenez Votre Évaluation Spécifique au Marché",
+    "howWeCompare": "Comment Nous Nous Comparons",
+    "primaryDifferentiators": [
+      {
+        "title": "Spécialisation du Marché Africain",
+        "description": "Compréhension approfondie des défis commerciaux africains, des environnements réglementaires et des contextes culturels que les firmes mondiales ratent",
+        "proof": "Nous avons servi avec succès 50+ entreprises africaines dans 12 pays avec 95% de satisfaction client"
+      },
+      {
+        "title": "Mise en Œuvre Rapide et Résultats",
+        "description": "Livraison de projet plus rapide avec des solutions pratiques et immédiatement exploitables conçues pour des environnements aux ressources limitées",
+        "proof": "Finalisation moyenne de projet 40% plus rapide que la norme de l'industrie avec des résultats prouvés en 30 jours"
+      },
+      {
+        "title": "Qualité Premium Rentable",
+        "description": "Analytique et conseil de niveau international à des prix accessibles aux PME africaines et entreprises en croissance",
+        "proof": "Prix 60% en dessous des firmes internationales tout en maintenant des standards de qualité égaux ou supérieurs"
+      },
+      {
+        "title": "Insights Locaux Basés sur les Données",
+        "description": "Combinons l'analytique avancée avec la connaissance du marché local pour une intelligence d'affaires uniquement pertinente et exploitable",
+        "proof": "Les entreprises du portefeuille ont atteint une croissance moyenne des revenus de 35% en 18 mois post-engagement"
+      }
+    ],
+    "competitivePositioning": {
+      "vsInternationalConsultants": {
+        "opposition": {
+          "title": "Consultants Internationaux",
+          "features": [
+            "Structure de coûts élevée (projets $50K+)",
+            "Cadres globaux génériques",
+            "Connaissance limitée du marché africain",
+            "Cycles de mise en œuvre lents"
+          ]
+        },
+        "andeda": {
+          "title": "ANDEDA",
+          "features": [
+            "Prix accessibles (gamme $2.5K-15K)",
+            "Solutions spécifiques à l'Afrique",
+            "Expertise approfondie du marché local",
+            "Livraison rapide de 2-8 semaines"
+          ]
+        }
+      },
+      "vsLocalConsultants": {
+        "opposition": {
+          "title": "Consultants Locaux",
+          "features": [
+            "Capacités analytiques limitées",
+            "Rapports et insights basiques",
+            "Offres de services restreintes",
+            "Évolutivité limitée"
+          ]
+        },
+        "andeda": {
+          "title": "ANDEDA",
+          "features": [
+            "Analytique de données avancée et IA",
+            "Intelligence d'affaires complète",
+            "Portefeuille de conseil de service complet",
+            "Solutions d'entreprise évolutives"
+          ]
+        }
+      }
+    }
+  },
+  "hero": {
+    "titlePart1": "Nous transformons vos",
+    "titlePart2": "données en avantage stratégique",
+    "subtitle": "Nous accompagnons les décideurs grâce à des analyses fiables, du conseil stratégique et une recherche de marché complète qui favorisent une croissance durable en Afrique et au-delà.",
+    "scheduleConsultation": "Planifier une consultation",
+    "seeWhatBuilding": "Voir ce que nous construisons",
+    "organizationsEmpowered": "Organisations accompagnées",
+    "dataAccuracy": "Précision des données",
+    "endUsersReached": "Utilisateurs finaux atteints"
+  },
+  "platform": {
+    "development": "Actuellement en développement",
+    "title": "Analytique avancée",
+    "platform": "Plateforme",
+    "description": "Nous construisons une plateforme d'analytique de pointe qui va révolutionner la prise de décision fondée sur les données. Découvrez en avant-première ce qui arrive prochainement.",
+    "features": {
+      "realtime": "Traitement des données en temps réel",
+      "visualizations": "Visualisations avancées",
+      "ai": "Insights propulsés par l'IA"
+    },
+    "previewButton": "Découvrir notre plateforme",
+    "joinPreview": "Rejoignez l'aperçu • Voyez ce que nous construisons • Aucun compte requis"
+  },
+  "partners": {
+    "title": "De confiance par",
+    "leaders": "les leaders du secteur",
+    "subtitle": "Des organisations de premier plan en Afrique et au-delà font confiance à ANDEDA pour l'analytique, le conseil et l'intelligence stratégique.",
+    "footer": "Rejoignez notre réseau grandissant d'entreprises qui utilisent notre expertise en analytique et en conseil pour obtenir des résultats concrets."
+  },
+  "analytics": {
+    "underDevelopment": "Plateforme en développement",
+    "title": "Analytique",
+    "subtitle": "Centre analytique",
+    "coming": "Bientôt disponible",
+    "description": "Nous construisons votre espace de travail analytique dédié où vous pourrez transformer les données de votre entreprise en insights exploitables. Découvrez ce que vous pourrez accomplir avec votre plateforme analytique personnelle.",
+    "buildingPlatform": "Construction pour vous",
+    "personalizedAnalytics": "Analytique personnalisée",
+    "yourDataYourInsights": "Vos données, vos insights",
+    "joinWaitlist": "Rejoindre la liste d'attente",
+    "previewDashboard": "Aperçu du tableau de bord",
+    "whatYouGet": "Ce que vous obtiendrez",
+    "whenReady": "Quand prêt",
+    "buildingDescription": "Notre équipe travaille dur pour créer ces fonctionnalités puissantes qui transformeront la façon dont vous analysez et visualisez les données de votre entreprise.",
+    "features": {
+      "status": "Statut",
+      "earlyDevelopment": "Développement précoce",
+      "initialDevelopment": "Développement initial",
+      "planningPhase": "Phase de planification",
+      "researchPhase": "Phase de recherche",
+      "designPhase": "Phase de conception",
+      "realTimeDashboard": {
+        "title": "Tableau de bord en temps réel",
+        "description": "Suivi en direct des métriques clés de l'entreprise avec mises à jour et alertes instantanées."
+      },
+      "customerManagement": {
+        "title": "Gestion des clients",
+        "description": "Suivez les interactions, l'historique et les préférences des clients en un seul endroit."
+      },
+      "dataImport": {
+        "title": "Outils d'importation de données",
+        "description": "Importez facilement des données de diverses sources avec formatage automatique."
+      },
+      "excelIntegration": {
+        "title": "Intégration Excel",
+        "description": "Synchronisation bidirectionnelle transparente avec Microsoft Excel pour des flux de travail familiers."
+      },
+      "dataEntry": {
+        "title": "Formulaires de saisie de données",
+        "description": "Formulaires personnalisés pour la collecte de données structurées au sein de votre organisation."
+      },
+      "smartInsights": {
+        "title": "Moteur d'insights IA",
+        "description": "Analyses propulsées par l'IA mettant en évidence les tendances et les opportunités."
+      },
+      "customViews": {
+        "title": "Vues de rapports personnalisées",
+        "description": "Créez et enregistrez des tableaux de bord personnalisés selon différents besoins."
+      },
+      "dataSecurity": {
+        "title": "Sécurité avancée des données",
+        "description": "Sécurité de niveau entreprise pour protéger vos données sensibles."
+      },
+      "globalAccess": {
+        "title": "Accès mondial",
+        "description": "Accédez à votre tableau de bord analytique depuis n'importe quel appareil, partout."
+      }
+    },
+    "completeAnalyticsSuite": "Suite d'analytique complète",
+    "analyticsSuite": "Suite d'analytique",
+    "analyticsSuiteDescription": "Notre plateforme offrira des capacités analytiques complètes adaptées à vos besoins. Voici un aperçu de ce qui vous attend.",
+    "capabilities": {
+      "dataProcessing": "Traitement des données",
+      "dashboardSpeed": "Vitesse du tableau de bord",
+      "platformUptime": "Disponibilité de la plateforme",
+      "dataProtection": "Protection des données",
+      "userExperience": "Expérience utilisateur",
+      "dataSources": "Sources de données",
+      "fastReliable": "Rapide et fiable",
+      "instantUpdates": "Mises à jour instantanées",
+      "alwaysAvailable": "Toujours disponible",
+      "completelySecure": "Totalement sécurisé",
+      "simpleIntuitive": "Simple et intuitif",
+      "multipleConnections": "Connexions multiples"
+    },
+    "analyticsPreview": "Aperçu analytique",
+    "previewMode": "Mode aperçu",
+    "chartsComingSoon": "Graphiques interactifs bientôt disponibles",
+    "yourGrowth": "Votre croissance",
+    "yourCustomers": "Vos clients",
+    "yourDataQuality": "Qualité des données",
+    "platformInDevelopment": "Plateforme en développement actif",
+    "personalizedExperience": "Nous élaborons une expérience personnalisée rien que pour vous",
+    "professionalBI": "Tableau de bord professionnel",
+    "businessIntelligence": "Insights",
+    "biDescription": "Transformez vos données en insights actionnables grâce à notre plateforme analytique conçue spécifiquement pour vos besoins.",
+    "liveDashboard": "Tableau de bord en direct",
+    "watchBusinessData": "Voyez les données de votre entreprise se mettre à jour en temps réel",
+    "smartSuggestions": "Suggestions IA",
+    "personalizedInsights": "Obtenez des insights et des recommandations personnalisés",
+    "dataVisualization": "Visualisation de données",
+    "visualizeYourData": "Visualisez vos données de manière pertinente",
+    "teamCollaboration": "Collaboration d'équipe",
+    "workTogether": "Travaillez ensemble avec votre équipe sur l'analytique",
+    "businessDataSecure": "Gardez vos données d'entreprise sécurisées et protégées",
+    "globalAccess": "Accès mondial",
+    "accessFromAnywhere": "Accédez à vos analyses où que vous soyez, à tout moment",
+    "getEarlyAccess": "Obtenir un accès anticipé",
+    "joinWaitlistDescription": "Rejoignez notre liste d'attente pour être parmi les premiers à essayer notre nouvelle plateforme analytique lors de son lancement.",
+    "viewFullPlatform": "Voir la plateforme analytique complète",
+    "requestDemo": "Demander une démo",
+    "transformBusinessIntelligence": "Transformez votre conseil d'entreprise avec notre plateforme analytique complète conçue pour des performances et des insights de niveau entreprise.",
+    "liveDemo": "Démo en direct",
+    "interactiveChartsComingSoon": "Graphiques interactifs bientôt disponibles",
+    "growth": "Croissance",
+    "users": "Utilisateurs",
+    "accuracy": "Précision",
+    "global": "Global"
+  },
+  "waitlist": {
+    "title": "Rejoindre la liste d'attente analytique",
+    "subtitle": "Soyez le premier à accéder à notre plateforme analytique avancée lors de son lancement !",
+    "thankYouMessage": "Merci de nous avoir rejoint ! Nous vous avertirons dès que notre plateforme analytique sera prête.",
+    "yourRole": "Votre rôle",
+    "selectRole": "Sélectionnez votre rôle",
+    "primaryInterest": "Intérêt principal",
+    "selectMultiple": "Sélectionner plusieurs",
+    "servicesSelected": "service{{s}} sélectionné{{s}}",
+    "additionalComments": "Commentaires supplémentaires",
+    "commentsPlaceholder": "Parlez-nous de vos besoins spécifiques en analytique ou de vos défis...",
+    "joiningWaitlist": "Inscription à la liste...",
+    "joinWaitlist": "Rejoindre la liste",
+    "roles": {
+      "ceo": "PDG/Fondateur",
+      "cto": "CTO",
+      "dataAnalyst": "Analyste de données",
+      "businessAnalyst": "Analyste d'affaires",
+      "marketingManager": "Gestionnaire marketing",
+      "productManager": "Gestionnaire de produit",
+      "consultant": "Consultant",
+      "other": "Autre"
+    },
+    "success": {
+      "title": "Vous êtes sur la liste d'attente !",
+      "message": "Merci de nous avoir rejoint ! Nous vous avertirons dès que notre plateforme analytique sera prête."
+    }
+  },
+  "homeContact": {
+    "getIn": "Prenez",
+    "touch": "contact",
+    "readyToTransform": "Prêt à transformer votre activité grâce à l'intelligence des données ? Parlons de la façon dont nous pouvons vous aider à atteindre vos objectifs.",
+    "scheduleConsultation": "Planifier une consultation",
+    "bookConsultation": "Réservez une consultation gratuite de 15 min pour échanger avec nos experts.",
+    "bookYourConsultation": "Réservez votre consultation",
+    "scheduleWithExperts": "Planifiez un créneau avec nos experts pour évaluer vos besoins et vos priorités.",
+    "scheduleConsultationButton": "Planifier une consultation",
+    "businessHours": "Horaires d'ouverture",
+    "mondayFriday": "Lundi - Vendredi : 9h00 - 17h00",
+    "weekendClosed": "Samedi - Dimanche : Fermé",
+    "whatsappUs": "Écrivez-nous sur WhatsApp",
+    "emailUs": "Écrivez-nous par e-mail",
+    "preferImmediate": "Besoin d'une réponse immédiate ? Utilisez WhatsApp pour un premier contact rapide."
+  },
+  "footer": {
+    "description": "Nous transformons les données en avantage stratégique. Nous accompagnons les décideurs grâce à une analytique fiable, du conseil et des insights stratégiques.",
+    "services": {
+      "title": "Services",
+      "dataAnalytics": "Analyse de données et IA",
+      "businessConsulting": "Conseil d'entreprise",
+      "financialIntelligence": "Intelligence financière",
+      "marketResearch": "Recherche de marché & stratégie"
+    },
+    "company": {
+      "title": "Entreprise",
+      "aboutUs": "À propos",
+      "contact": "Contact",
+      "privacyPolicy": "Politique de confidentialité",
+      "termsOfService": "Conditions d'utilisation"
+    },
+    "contactInfo": {
+      "title": "Coordonnées",
+      "location": {
+        "line1": "Banapa, Malabo",
+        "line2": "Guinée équatoriale"
+      },
+      "email": "andeda1@outlook.com",
+      "phone": "+240 222 108 272"
+    },
+    "copyright": "© {{year}} ANDEDA Analytics & Consulting. Tous droits réservés."
+  },
+  "about": {
+    "title": "À Propos d'ANDEDA",
+    "subtitle": "Transformer les données en avantage stratégique grâce à des solutions d'analytique innovantes qui accompagnent les décideurs en Afrique et au‑delà.",
+    "tagline": "Entreprise Leader en Analyse de Données et Conseil",
+    "whoWeAre": {
+      "title": "Qui Nous Sommes",
+      "servicesList": "Analyse de Données | Recherche de Marché et Stratégie | Conseil d'Entreprise | Intelligence Financière | Marketing et Publicité",
+      "description": "Chez Andeda S.L, nous autonomisons les entreprises, institutions et organisations pour transformer les données en intelligence claire et exploitable qui génère des résultats concrets. Avec des solutions enracinées dans l'expérience pratique de l'industrie et l'expertise technique avancée, nous aidons nos clients à prendre des décisions plus intelligentes, optimiser les performances et évoluer de manière durable."
+    },
+    "whyChooseUs": {
+      "title": "Pourquoi Les Clients Nous Choisissent",
+      "description1": "Soutenu par une carrière mondiale dans l'hôtellerie, l'aviation, les services maritimes et la santé publique, et façonné par des collaborations avec des organisations telles que le Ministère de la Santé de Guinée équatoriale et l'Organisation mondiale de la santé (OMS), j'apporte un mélange unique de perspicacité stratégique et d'expérience du monde réel à chaque projet.",
+      "description2": "Chez Andeda S.L, nous ne livrons pas seulement des données — nous livrons de la clarté, une direction et des résultats mesurables. Notre travail est toujours personnalisé, collaboratif et axé sur la résolution des défis les plus pressants de nos clients."
+    },
+    "mission": {
+      "title": "Mission d'ANDEDA",
+      "description": "Accompagner les entreprises et les investisseurs avec des conseils financiers experts, de l'analytique de données de pointe et une planification stratégique pour atteindre leurs objectifs."
+    },
+    "vision": {
+      "title": "Vision d'ANDEDA",
+      "description": "Devenir la référence en conseil financier et en analytique de données & IA en Afrique et au‑delà, en délivrant des solutions intelligentes qui favorisent la croissance, l'efficacité et la création de valeur durable."
+    },
+    "values": {
+      "title": "Nos Valeurs",
+      "subtitle": "Les principes qui guident tout ce que nous faisons chez ANDEDA",
+      "excellence": {
+        "title": "Excellence",
+        "description": "Nous visons l'excellence dans tout ce que nous livrons afin d'offrir à nos clients des solutions d'analytique de classe mondiale."
+      },
+      "collaboration": {
+        "title": "Collaboration",
+        "description": "Nous croyons au pouvoir du partenariat et travaillons en étroite collaboration avec nos clients pour comprendre leurs défis et objectifs uniques."
+      },
+      "innovation": {
+        "title": "Innovation",
+        "description": "Nous faisons évoluer en continu nos méthodes et technologies pour rester à l'avant‑garde de l'analytique de données, de l'IA et du conseil."
+      }
+    },
+    "expertise": {
+      "title": "Notre Expertise",
+      "subtitle": "Dirigé par des professionnels expérimentés avec une expertise approfondie en science des données, conseil d'entreprise et dynamiques du marché africain.",
+      "dataAnalytics": "Analytique de Données et IA",
+      "dataAnalyticsDesc": "Analyse avancée et insights de performance",
+      "consulting": "Conseil d'Entreprise",
+      "consultingDesc": "Conseil stratégique et optimisation opérationnelle",
+      "financialIntelligence": "Intelligence Financière",
+      "financialIntelligenceDesc": "Planification financière et gestion des risques",
+      "marketResearch": "Recherche de Marché & Stratégie",
+      "marketResearchDesc": "Insights clients et analyse de marché"
+    },
+    "cta": {
+      "title": "Prêt à Transformer Vos Données ?",
+      "subtitle": "Discutons de la façon dont ANDEDA peut vous aider à déverrouiller le pouvoir de vos données et stimuler la croissance stratégique de votre organisation.",
+      "scheduleConsultation": "Planifier une Consultation",
+      "learnMoreServices": "En Savoir Plus Sur Nos Services"
+    },
+    "whyChoose": {
+      "title": "Pourquoi Choisir ANDEDA",
+      "subtitle": "pour Vos Besoins d'Analyse de Données ?",
+      "description": "Transformez votre entreprise avec des solutions d'analyse de pointe conçues pour l'entreprise moderne",
+      "realTimeAnalytics": {
+        "title": "Analyse en Temps Réel",
+        "description": "Obtenez des insights instantanés avec traitement et visualisation de données en direct"
+      },
+      "predictiveModeling": {
+        "title": "Modélisation Prédictive",
+        "description": "Prédisez les tendances et prenez des décisions basées sur les données avec confiance"
+      },
+      "expertSupport": {
+        "title": "Support Expert",
+        "description": "Équipe dédiée de data scientists et analystes à votre service"
+      },
+      "quickImplementation": {
+        "title": "Implémentation Rapide",
+        "description": "Lancez-vous rapidement avec notre processus d'intégration simplifié"
+      }
+    }
+  },
+  "contact": {
+    "hero": {
+      "title": "Contactez-nous",
+      "subtitle": "Prêt à transformer votre entreprise avec l'intelligence des données ? Parlons de la façon dont nous pouvons vous aider à atteindre vos objectifs."
+    },
+    "info": {
+      "title": "Informations de Contact",
+      "teamTitle": "Contactez Notre Équipe",
+      "subtitle": "Contactez-nous par l'un de ces canaux. Nous sommes là pour vous aider à réussir avec vos initiatives d'intelligence des données.",
+      "clickToConnect": "Cliquez sur les informations de contact ci-dessous pour nous contacter directement",
+      "whatsappAction": "Discutez avec nous maintenant",
+      "location": "Banapa, Malabo, Guinée équatoriale",
+      "hours": "Lun - Ven : 9h00 - 17h00",
+      "technicalSupport": "Support Technique",
+      "techSupportHours": "24/7 sur réservation préalable"
+    },
+    "faq": {
+      "title": "Questions Fréquemment Posées",
+      "subtitle": "Obtenez des réponses rapides aux questions courantes sur nos services et processus",
+      "q1": {
+        "question": "Combien de temps dure un projet typique ?",
+        "answer": "Le processus prend entre quelques jours à 4 semaines maximum selon le travail. Notre approche complète assure que nous comprenons vos exigences uniques et livrons des solutions sur mesure qui génèrent des résultats mesurables."
+      },
+      "q2": {
+        "question": "Travaillez-vous avec les petites entreprises ?",
+        "answer": "Oui ! Nous offrons des solutions évolutives pour les entreprises de toutes tailles, des startups aux grandes entreprises en Afrique et au-delà. Nous utilisons des outils et frameworks leaders de l'industrie pour assurer des solutions évolutives, sécurisées et haute performance."
+      },
+      "q3": {
+        "question": "Offrez-vous de la formation pour notre équipe ?",
+        "answer": "Oui ! Nous fournissons des sessions de formation complètes pour assurer que votre équipe peut efficacement utiliser et maintenir les solutions analytiques que nous implémentons. Notre formation couvre les aspects techniques et les meilleures pratiques pour la prise de décision basée sur les données."
+      },
+      "q4": {
+        "question": "Fournissez-vous un support continu ?",
+        "answer": "Absolument ! Nous offrons des packages de support et maintenance complets pour assurer que vos solutions analytiques continuent à délivrer de la valeur."
+      },
+      "q5": {
+        "question": "Combien coûtent vos services ?",
+        "answer": "Nos prix varient selon la complexité et l'étendue de votre projet. Nous offrons des consultations gratuites pour discuter de vos besoins et fournir un devis personnalisé."
+      }
+    },
+    "form": {
+      "title": "Envoyez-nous un Message",
+      "subtitle": "Remplissez le formulaire ci-dessous et nous vous répondrons sous 24 heures.",
+      "name": "Nom",
+      "email": "Email",
+      "company": "Entreprise",
+      "phone": "Téléphone",
+      "subject": "Sujet",
+      "message": "Message",
+      "send": "Envoyer le Message",
+      "sending": "Envoi...",
+      "success": "Merci ! Votre message a été envoyé avec succès.",
+      "error": "Une erreur s'est produite. Veuillez réessayer.",
+      "validation": {
+        "nameRequired": "Le nom est requis",
+        "emailRequired": "L'email est requis",
+        "emailInvalid": "Format d'email invalide",
+        "messageRequired": "Le message est requis"
+      },
+      "booking": {
+        "title": "Réserver une Consultation",
+        "subtitle": "Planifiez une consultation gratuite de 15 minutes avec nos experts.",
+        "preferredDate": "Date préférée",
+        "preferredTime": "Heure préférée",
+        "serviceInterest": "Service d'intérêt",
+        "additionalInfo": "Informations supplémentaires",
+        "bookConsultation": "Réserver la Consultation",
+        "validation": {
+          "preferredDateRequired": "La date préférée est requise",
+          "preferredTimeRequired": "L'heure préférée est requise"
+        },
+        "services": {
+          "dataAnalytics": "Analyse de Données et IA",
+          "consulting": "Conseil d'Entreprise",
+          "financialIntelligence": "Intelligence Financière",
+          "marketResearch": "Recherche de Marché",
+          "performanceAnalysis": "Analyse de Performance",
+          "forecasting": "Prévisions et Tendances",
+          "visualReporting": "Rapports Visuels et Tableaux de Bord",
+          "customReporting": "Solutions de Rapports Personnalisés",
+         "other": "Autres Services"
+        },
+        "fillAllFields": "Veuillez remplir tous les champs requis ci-dessus pour activer l'envoi.",
+        "submissionNotice": "En soumettant, vous acceptez de recevoir des mises à jour sur nos services d'analyse et la planification de consultations."
+      },
+      "images": {
+        "transformData": "Transformez Vos Données",
+        "transformDataDesc": "Solutions analytiques professionnelles qui stimulent la croissance des entreprises",
+        "businessIntelligence": "Intelligence d'Affaires",
+        "businessIntelligenceDesc": "Tableaux de bord avancés pour la prise de décision stratégique",
+        "expertTeam": "Équipe d'Experts",
+        "expertTeamDesc": "Approche collaborative pour des solutions basées sur les données"
+      }
+    },
+    "gallery": {
+      "title": "Projets Analytiques Précédents",
+      "subtitle": "Explorez notre portefeuille d'implémentations analytiques réussies et de solutions de tableaux de bord",
+      "projectSummary": "Résumé du Projet",
+      "outcomeAchieved": "Résultat Atteint",
+      "keyBenefits": "Bénéfices Clés",
+      "projectCounter": "Projet {{current}} sur {{total}}",
+      "dashboard1": {
+        "title": "Tableau de Bord Opérationnel",
+        "summary": "Nous avons développé un tableau de bord analytique opérationnel complet pour optimiser les processus métier et améliorer les capacités de prise de décision.",
+        "outcome": "Nous avons implémenté avec succès des systèmes de surveillance en temps réel qui ont réduit les coûts opérationnels de 25% et amélioré l'efficacité des processus.",
+        "benefits": "Visibilité opérationnelle accrue, temps de réponse plus rapides et prise de décision basée sur les données dans tous les départements."
+      },
+      "dashboard2": {
+        "title": "Plateforme de Performance Financière",
+        "summary": "Nous avons créé une plateforme analytique financière intégrée pour fournir aux dirigeants des insights en temps réel sur la performance de l'entreprise et les prévisions.",
+        "outcome": "Nous avons livré une solution qui a amélioré la précision des rapports financiers de 40% et réduit le temps de rapport manuel de 60%.",
+        "benefits": "Rapports financiers automatisés, précision de planification budgétaire accrue et capacités de conformité réglementaire améliorées."
+      },
+      "dashboard3": {
+        "title": "Hub Analytique Client",
+        "summary": "Nous avons construit une plateforme analytique de comportement client pour aider à comprendre les parcours clients et optimiser les stratégies marketing.",
+        "outcome": "Nous avons obtenu une augmentation de 35% des taux de rétention client et 50% d'amélioration de l'efficacité des campagnes marketing.",
+        "benefits": "Meilleure segmentation client, campagnes marketing personnalisées et scores de satisfaction client améliorés."
+      },
+      "dashboard4": {
+        "title": "Système d'Intelligence de Chaîne d'Approvisionnement",
+        "summary": "Nous avons implémenté une solution analytique de chaîne d'approvisionnement pour optimiser la gestion des stocks et réduire les goulots d'étranglement opérationnels.",
+        "outcome": "Nous avons livré 30% de réduction des coûts d'inventaire et 45% d'amélioration de la visibilité et réactivité de la chaîne d'approvisionnement.",
+        "benefits": "Niveaux d'inventaire optimisés, réduction des ruptures de stock, relations fournisseurs améliorées et résilience de chaîne d'approvisionnement accrue."
+      }
+    }
+  },
+  "audiences": {
+    "title": "Qui nous servons",
+    "shortTitle": "Qui nous aidons",
+    "subtitle": "Comment nos analyses se transforment en résultats réels et simples",
+    "intro": "Voici ce que vous pouvez attendre lorsque nous travaillons ensemble : des métriques claires en lesquelles tout le monde fait confiance, des décisions plus rapides et des tableaux de bord pratiques adaptés à vos objectifs.",
+    "note": "Note : Nous ne sommes pas limités aux exemples ci-dessous — ils sont juste pour donner des idées. Nous pouvons faire plus selon vos besoins.",
+    "description": "Nous accompagnons des institutions financières, des startups, des institutions gouvernementales, des établissements académiques, des PME ainsi que des ONG et organisations à bout non lucratif dans des secteurs tels que la finance, la santé, le retail, l'industrie, la technologie et les télécommunications — en les aidant à exploiter la puissance de leurs données pour un succès durable.",
+    "organizations": {
+      "title": "Types d'Organisations",
+      "list": "Institutions financières, startups, institutions gouvernementales, établissements académiques, PME et ONG et organisations à but non lucratif"
+    },
+    "industries": {
+      "title": "Secteurs que Nous Servons",
+      "list": "Finance, santé, retail, industrie, technologie et télécommunications"
+    },
+    "commitment": "En les aidant à exploiter la puissance de leurs données pour un succès durable.",
+    "byOrgType": "Par type d'organisation",
+    "byIndustry": "Par secteur",
+    "examples": "Exemples",
+    "problems": "Problèmes",
+    "solution": "Solution",
+    "benefits": "Bénéfices (Ce que vous obtenez)",
+    "caseStudy": "Étude de cas",
+    "howWeHelp": "Notre aide",
+    "orgTypes": {
+      "financial": {
+        "title": "Institutions financières",
+        "subtitle": "Banque • Fintech • Assurance",
+        "definition": "Vous travaillez sous des règles strictes et avez besoin de chiffres rapides et fiables pour les prêts, les risques et les rapports.",
+        "examples": ["Banques", "Prêteurs numériques", "Paiements", "Assureurs", "Gestionnaires d'actifs", "Néobanques"],
+        "points": [
+          "Décisions plus rapides et traçables avec moins de retravail",
+          "Chiffres partagés et fiables entre les équipes",
+          "Rapports reproductibles avec historique compatible audit",
+          "Intégration client plus rapide avec moins d'étapes manuelles"
+        ],
+        "problem": "Les données clients, prêts et identité vivent dans différents outils. Les équipes reconstruisent les rapports chaque semaine.",
+        "problem2": "Les décisions sont lentes car les informations de paiement, candidature et recouvrement ne sont pas montrées ensemble.",
+        "solution": "Connectez vos systèmes centraux pour que toutes les données apparaissent au même endroit selon un planning régulier.",
+        "solution2": "Tableaux de bord clairs pour les prêts, recouvrements et risques avec les dernières informations.",
+        "caseStudy": {
+          "scenario": "Un prêteur de taille moyenne extrayait des feuilles de calcul de nombreux systèmes pour examiner les candidatures et construire les packs mensuels.",
+          "resolution": "Nous avons connecté les données de prêts, identité et paiements et livré des tableaux de bord simples. Les rapports mensuels sont passés de jours à heures et tout le monde utilisait les mêmes chiffres."
+        }
+      },
+      "startups": {
+        "title": "Startups",
+        "subtitle": "Amorçage à croissance",
+        "definition": "Vous voulez des métriques claires et partagées pour gérer le produit et la croissance.",
+        "examples": ["SaaS", "Marketplaces", "Fintech", "Healthtech", "Startups IA"],
+        "points": [
+          "Métriques prêtes pour investisseurs que vous pouvez défendre",
+          "Moins de gaspillage d'acquisition avec attribution claire",
+          "Tableaux de bord hebdomadaires stables pour des décisions plus rapides",
+          "Meilleures décisions produit basées sur des insights utilisateur complets"
+        ],
+        "problem": "Différentes équipes utilisent différents chiffres, donc les revues prennent trop de temps.",
+        "problem2": "Vous ne pouvez pas dire quels canaux ou fonctionnalités entraînent les inscriptions et revenus.",
+        "solution": "Créez un glossaire et un ensemble de chiffres fiables pour tous.",
+        "solution2": "Suivez les étapes clés de l'inscription à l'actif et payant, liées aux dépenses.",
+        "caseStudy": {
+          "scenario": "Une équipe logicielle seed passait des heures chaque semaine à construire un document de métriques et ne pouvait pas lier les dépenses à l'activation.",
+          "resolution": "Nous avons standardisé le suivi et construit une vue d'activation claire. La préparation hebdomadaire est passée d'environ six heures à moins d'une heure et le budget s'est déplacé vers les canaux les plus performants."
+        }
+      },
+      "government": {
+        "title": "Institutions publiques",
+        "subtitle": "Secteur public et agences",
+        "definition": "Vous servez les citoyens à grande échelle avec des budgets serrés et des besoins stricts de sécurité et transparence.",
+        "examples": ["Ministères", "Agences", "Municipalités", "Régulateurs"],
+        "points": [
+          "Routage plus rapide et équitable des services",
+          "Rapports transparents qui construisent la confiance",
+          "Moins de coordination manuelle et de retravail",
+          "Résolution plus rapide des demandes citoyennes avec meilleur suivi"
+        ],
+        "problem": "Les données de programme se trouvent dans différents départements, donc les dirigeants ne partagent pas une vue des résultats.",
+        "problem2": "Il est difficile de prioriser les demandes et budgets car les tendances de service par zone ne sont pas claires.",
+        "solution": "Créez un hub de données partagé sécurisé avec le bon accès pour chaque rôle.",
+        "solution2": "Tableaux de bord qui montrent les résultats par programme et région avec des définitions claires.",
+        "caseStudy": {
+          "scenario": "Une ville suivait les tickets de service dans des systèmes séparés et ne pouvait pas comparer les quartiers.",
+          "resolution": "Nous avons connecté les données de tickets, personnel et localisation et livré un tableau de bord partagé. Les équipes fixent les priorités équitablement et rapportent les progrès avec confiance."
+        }
+      },
+      "academic": {
+        "title": "Établissements académiques",
+        "definition": "Vous gérez la recherche, les subventions et les résultats étudiants avec un personnel limité et de nombreux systèmes.",
+        "examples": ["Universités", "Laboratoires de recherche", "Programmes edtech"],
+        "points": [
+          "Support plus précoce pour les cohortes à risque",
+          "Meilleure visibilité sur le pipeline de subventions et renouvellements",
+          "Moins de temps administratif pour le corps professoral et le personnel",
+          "Meilleur équilibre entre activités d'enseignement et de recherche"
+        ],
+        "problem": "Les données étudiants et recherche sont divisées entre systèmes, donc les signaux de risque précoce sont manqués.",
+        "problem2": "Les opportunités de subventions, soumissions et renouvellements sont suivis dans différents fichiers sans vue pipeline.",
+        "solution": "Unifiez les données étudiants et recherche avec contrôles de confidentialité et vues claires pour le personnel de support.",
+        "solution2": "Tableaux de bord de pipeline de subventions avec rappels et suivi de statut de l'opportunité à l'attribution.",
+        "caseStudy": {
+          "scenario": "Une université manquait d'insights opportuns sur les risques de rétention et le statut des subventions entre départements.",
+          "resolution": "Nous avons livré des tableaux de bord de rétention et un tracker de subventions lié aux systèmes source, permettant une approche proactive et des soumissions opportunes."
+        }
+      },
+      "smes": {
+        "title": "PME",
+        "definition": "Vous voulez une analytique simple et abordable qui fonctionne avec vos outils de point de vente et comptabilité existants.",
+        "examples": ["Détaillants", "Grossistes", "Services", "PME manufacturières"],
+        "points": [
+          "Moins d'erreurs manuelles et de réconciliations",
+          "Bon stock au bon endroit",
+          "Tableau de bord hebdomadaire simple que tous peuvent suivre",
+          "Meilleur timing pour les décisions de vente et inventaire"
+        ],
+        "problem": "Les rapports dépendent de feuilles de calcul extraites du point de vente et de la comptabilité ; les chiffres correspondent rarement.",
+        "problem2": "Les gestionnaires manquent d'une vue claire de l'inventaire, trésorerie et articles à rotation lente entre magasins.",
+        "solution": "Synchronisation automatique du point de vente et comptabilité dans un modèle propre avec actualisations programmées.",
+        "solution2": "Tableaux de bord d'inventaire, trésorerie et réapprovisionnement avec alertes simples.",
+        "caseStudy": {
+          "scenario": "Un détaillant régional luttait avec des ruptures de stock et des chiffres mensuels disputés.",
+          "resolution": "Nous avons connecté POS et comptabilité et introduit une vue de réapprovisionnement et tableau de bord hebdomadaire. Les équipes se sont alignées sur un ensemble de chiffres et ont réduit les commandes urgentes."
+        }
+      },
+      "ngos": {
+        "title": "ONG et organisations à but non lucratif",
+        "definition": "Vous êtes mission-first et devez démontrer l'impact avec forte responsabilité envers les donateurs.",
+        "examples": ["ONG", "Fondations", "Entreprises sociales", "OING"],
+        "points": [
+          "Rapports d'impact crédibles et comparables",
+          "Meilleurs renouvellements de subventions et administration",
+          "Visibilité terrain claire sans fardeau supplémentaire",
+          "Planification financière simplifiée et supervision budgétaire"
+        ],
+        "problem": "L'impact est difficile à quantifier car les données bénéficiaires, programmes et donateurs sont stockées séparément.",
+        "problem2": "Rapporter à plusieurs financeurs nécessite un reformatage manuel et des demandes de données répétées.",
+        "solution": "Mesures d'impact standard et vue complète qui lie bénéficiaires, activités et donateurs.",
+        "solution2": "Modèles de rapports donateurs réutilisables qui correspondent au format de chaque financeur.",
+        "caseStudy": {
+          "scenario": "Une ONG de santé avait besoin de rapports cohérents sur des subventions pluriannuelles avec différents formats.",
+          "resolution": "Nous avons standardisé les indicateurs et modèles et construit un tableau de bord d'impact. Le personnel a produit des rapports donateurs plus rapidement avec moins de demandes de clarification."
+        }
+      }
+    },
+    "industries": {
+      "finance": {
+        "title": "Finance",
+        "definition": "Risque, revenus et régulation doivent évoluer ensemble sur des données fiables.",
+        "examples": ["Banque de détail", "Banque d'entreprise", "Paiements", "Patrimoine"],
+        "points": [
+          "Pertes moindres et enquête plus rapide",
+          "Décisions plus claires sur risque et capital",
+          "Engagement personnalisé et conforme",
+          "Rapports réglementaires opportuns avec confiance d'audit"
+        ],
+        "problem": "Fraude et litiges tendent à la hausse tandis que les analystes jonglent avec de multiples systèmes et règles ad-hoc.",
+        "problem2": "L'usage de capital et risque est difficile à expliquer car les modèles et entrées sont éparpillés.",
+        "solution": "Vues de fraude en temps réel et quotidiennes avec processus de suivi clair.",
+        "solution2": "Règles claires, propriétaires et tableaux de bord qui lient entrées et résultats.",
+        "caseStudy": {
+          "scenario": "Un fournisseur de paiement gérait les litiges manuellement avec visibilité limitée entre outils.",
+          "resolution": "Nous avons livré un espace de travail partagé fraude et litiges sur des données consolidées, améliorant la vitesse et cohérence de révision."
+        }
+      },
+      "healthcare": {
+        "title": "Santé",
+        "definition": "Les données cliniques, opérationnelles et de conformité doivent s'aligner autour du patient.",
+        "examples": ["Hôpitaux", "Cliniques", "HMO", "Santé numérique"],
+        "points": [
+          "Meilleurs résultats et moins de réadmissions",
+          "Moins de fardeau administratif sur les équipes",
+          "Rapports cohérents aux régulateurs et partenaires",
+          "Gestion médicamenteuse plus sûre avec moins d'erreurs"
+        ],
+        "problem": "Dossiers médicaux, réclamations et planification sont cloisonnés donc les lacunes de soins sont faciles à manquer.",
+        "problem2": "Les rapports de qualité sont lourds et nécessitent des extractions répétées de données de différents systèmes.",
+        "solution": "Connectez les données en utilisant des mappages standard avec contrôles de confidentialité forts.",
+        "solution2": "Automatisez les rapports de qualité et programme avec modèles et vérifications.",
+        "caseStudy": {
+          "scenario": "Un réseau de cliniques ne pouvait pas identifier de manière fiable les lacunes de soins chroniques.",
+          "resolution": "Nous avons unifié les dossiers de santé et réclamations et ajouté des tableaux de bord d'outreach pour que le personnel puisse cibler les suivis efficacement."
+        }
+      },
+      "retail": {
+        "title": "Commerce de détail",
+        "definition": "Les marges dépendent de signaux de demande précis et d'insights clients clairs.",
+        "examples": ["E-commerce", "Omnicanal", "Épicerie", "Vêtements"],
+        "points": [
+          "Disponibilité plus élevée avec coût de portage plus bas",
+          "Promotions plus intelligentes qui protègent la marge",
+          "Meilleure rétention et valeur à vie",
+          "Prix plus compétitifs avec meilleures marges"
+        ],
+        "problem": "Ruptures et surstocks se produisent car les prévisions sont basées sur feuilles de calcul et non visibles aux magasins.",
+        "problem2": "Performance promotionnelle n'est pas claire et difficile à comparer entre périodes.",
+        "solution": "Vues de demande et réstock qui combinent signaux magasin, produit et calendrier.",
+        "solution2": "Mesure d'élévation promo avec baselines et révisions post-événement simples.",
+        "caseStudy": {
+          "scenario": "Une marque omnicanale luttait avec des pics saisonniers et stock excédentaire.",
+          "resolution": "Nous avons introduit un tableau de bord de réapprovisionnement et mesure promo, aidant les équipes à planifier plus tôt et réduire les transferts d'urgence."
+        }
+      },
+      "manufacturing": {
+        "title": "Industrie manufacturière",
+        "definition": "Rendement, temps de fonctionnement et risque d'approvisionnement pilotent les résultats sur la ligne.",
+        "examples": ["Fabrication discrète", "Fabrication de procédé", "Assembleurs"],
+        "points": [
+          "OEE et débit plus élevés",
+          "Moins de déchets et retravail",
+          "Planification de production plus fiable",
+          "Coûts énergétiques réduits avec meilleur contrôle de consommation"
+        ],
+        "problem": "Temps d'arrêt équipement inattendu perturbe horaires et promesses de livraison.",
+        "problem2": "Qualité varie entre équipes et lots avec visibilité limitée des facteurs.",
+        "solution": "Vues de maintenance prédictive avec alertes basées sur signaux machine.",
+        "solution2": "Tableaux de bord qualité avec vérifications qualité simples et analyses de cause racine.",
+        "caseStudy": {
+          "scenario": "Une usine expérimentait des arrêts réguliers sur une machine critique sans avertissements clairs.",
+          "resolution": "Nous avons construit un tableau de bord d'alerte précoce utilisant capteurs existants et journaux de maintenance, réduisant les temps d'arrêt non planifiés."
+        }
+      },
+      "technology": {
+        "title": "Technologie",
+        "definition": "L'analytique produit alimente la croissance et fiabilité pour le logiciel moderne.",
+        "examples": ["B2B SaaS", "Plateformes", "Outils développeur"],
+        "points": [
+          "Signaux produit-marché clairs",
+          "Itérations plus rapides et sûres",
+          "Confiance et fiabilité plus élevées",
+          "Meilleur onboarding utilisateur avec taux de conversion plus élevés"
+        ],
+        "problem": "Suivi d'événements incomplet, donc adoption et rétention sont difficiles à mesurer.",
+        "problem2": "Activation traîne car utilisateurs manquent étapes de valeur critiques dans premières sessions.",
+        "solution": "Standardisez événements et définissez un modèle source-de-vérité.",
+        "solution2": "Entonnoirs d'activation, audits et signaux in-app pour faire émerger valeur plus tôt.",
+        "caseStudy": {
+          "scenario": "Un produit self-serve ne pouvait pas lier usage de fonctionnalité à rétention ou expansion.",
+          "resolution": "Nous avons instrumenté événements centraux et construit tableaux de bord rétention, permettant à l'équipe de se concentrer sur les fonctionnalités qui comptaient le plus."
+        }
+      },
+      "telecom": {
+        "title": "Télécommunications",
+        "definition": "Échelle, qualité réseau et churn pilotent l'activité.",
+        "examples": ["FAI", "Opérateurs mobiles", "Fournisseurs réseau entreprise"],
+        "points": [
+          "Temps de fonctionnement et satisfaction client plus élevés",
+          "Revenus récupérés et contrôles plus clairs",
+          "Churn plus bas et revenus moyens par utilisateur plus stables",
+          "Meilleure planification réseau avec expansion capacité rentable"
+        ],
+        "problem": "Lacunes performance réseau ne sont pas visibles au niveau segment.",
+        "problem2": "Fuite de revenus difficile à tracer entre facturation et médiation.",
+        "solution": "Métriques réseau et alertes avec vues segment et géographie.",
+        "solution2": "Vérifications fuite qui réconcilient systèmes usage et facturation.",
+        "caseStudy": {
+          "scenario": "Un opérateur mobile a vu le churn augmenter dans segments prépayés jeunes.",
+          "resolution": "Nous avons combiné données qualité réseau et usage pour cibler offres et améliorer expérience, stabilisant churn dans le segment."
+        }
+      }
+    }
+  },
+  "contact": {
+    "hero": {
+      "title": "Entrer en Contact",
+      "subtitle": "Prêt à transformer votre entreprise avec l'intelligence des données ? Discutons de la façon dont nous pouvons vous aider à atteindre vos objectifs."
+    },
+    "info": {
+      "title": "Informations de Contact",
+      "teamTitle": "Entrer en Contact avec Notre Équipe",
+      "subtitle": "Contactez-nous par l'un de ces canaux. Nous sommes là pour vous aider à réussir avec vos initiatives d'intelligence des données.",
+      "clickToConnect": "Cliquez sur n'importe quelle information de contact ci-dessous pour vous connecter directement avec nous",
+      "whatsappAction": "Chattez avec nous maintenant",
+      "location": "Banapa, Malabo, Guinée Équatoriale",
+      "hours": "Lun - Ven : 9h00 - 17h00",
+      "technicalSupport": "Support Technique",
+      "techSupportHours": "24/7 avec réservation préalable"
+    },
+    "faq": {
+      "title": "Questions Fréquemment Posées",
+      "subtitle": "Obtenez des réponses rapides aux questions courantes sur nos services et processus",
+      "q1": {
+        "question": "Combien de temps prend un projet typique ?",
+        "answer": "Le processus prend entre quelques jours à 4 semaines maximum selon le travail. Notre approche complète assure que nous comprenons vos exigences uniques et livrons des solutions sur mesure qui génèrent des résultats mesurables."
+      },
+      "q2": {
+        "question": "Travaillez-vous avec les petites entreprises ?",
+        "answer": "Oui ! Nous offrons des solutions évolutives pour les entreprises de toutes tailles, des startups aux grandes entreprises à travers l'Afrique et au-delà. Nous utilisons des outils et frameworks leaders de l'industrie pour assurer des solutions évolutives, sécurisées et performantes."
+      },
+      "q3": {
+        "question": "Offrez-vous de la formation pour notre équipe ?",
+        "answer": "Oui ! Nous fournissons des sessions de formation complètes pour assurer que votre équipe peut utiliser et maintenir efficacement les solutions analytiques que nous implémentons. Notre formation couvre les aspects techniques et les meilleures pratiques pour la prise de décision basée sur les données."
+      },
+      "q4": {
+        "question": "Fournissez-vous un support continu ?",
+        "answer": "Absolument ! Nous offrons des packages complets de support et maintenance pour assurer que vos solutions analytiques continuent de fournir de la valeur."
+      },
+      "q5": {
+        "question": "Combien coûtent vos services ?",
+        "answer": "Les prix ne sont pas affichés car ils varient selon l'ampleur du travail et des services requis. Nous fournissons des devis personnalisés après avoir compris vos besoins spécifiques lors de notre processus de consultation complet."
+      },
+      "q6": {
+        "question": "Quelles industries servez-vous ?",
+        "answer": "Nous travaillons dans diverses industries incluant la finance, la santé, le retail, la manufacture et les secteurs technologiques. Nos solutions adaptables sont conçues pour répondre aux défis uniques et exigences de chaque industrie."
+      },
+      "q7": {
+        "question": "Ne servez-vous que l'Afrique ?",
+        "answer": "Non, nous avons un large champ d'action et sommes ouverts à travailler avec tous à distance et sur site dans le monde entier. Notre portée mondiale nous permet de servir des clients dans différents fuseaux horaires et régions efficacement."
+      }
+    },
+    "form": {
+      "title": "Prêt à Transformer Vos Données ?",
+      "subtitle": "Remplissez le formulaire ci-dessous et discutons de la façon dont nous pouvons vous aider à déverrouiller le pouvoir de vos données.",
+      "getInTouch": "Entrer en Contact",
+      "tellUsAbout": "Parlez-nous de votre projet et comment nous pouvons aider à transformer vos données en avantage stratégique.",
+      "fullName": "Nom Complet",
+      "emailAddress": "Adresse E-mail",
+      "phoneNumber": "Numéro de Téléphone",
+      "companyName": "Nom de l'Entreprise",
+      "country": "Pays",
+      "currentLocation": "Localisation Actuelle",
+      "preferredDate": "Date Préférée pour Vous Contacter",
+      "preferredTime": "Heure Préférée pour Vous Contacter",
+      "servicesOfInterest": "Services d'Intérêt",
+      "selectMultiple": "(Sélectionnez plusieurs)",
+      "projectDescription": "Description du Projet",
+      "sendMessage": "Envoyer le Message",
+      "sending": "Envoi en cours...",
+      "clear": "Effacer",
+      "thankYou": "Merci !",
+      "messageSent": "Votre message a été envoyé avec succès. Nous vous répondrons dans les 24 heures.",
+      "formCleared": "Formulaire effacé avec succès",
+      "failedToSend": "Échec de l'envoi du message. Veuillez réessayer.",
+      "placeholders": {
+        "fullName": "Entrez votre nom complet",
+        "email": "votre.email@entreprise.com",
+        "company": "Nom de Votre Entreprise",
+        "selectCountry": "Sélectionnez votre pays",
+        "selectServices": "Sélectionnez les services...",
+        "selectCode": "Code",
+        "selectCodeFirst": "Sélectionnez d'abord le code pays",
+        "preferredDate": "Choisissez une date",
+        "preferredTime": "Sélectionnez une heure",
+        "projectDescription": "Parlez-nous de votre projet, défis de données et ce que vous cherchez à accomplir..."
+      },
+      "validation": {
+        "nameRequired": "Le nom est requis",
+        "emailRequired": "L'e-mail est requis",
+        "emailInvalid": "Adresse e-mail invalide",
+        "phoneRequired": "Le numéro de téléphone est requis",
+        "companyRequired": "Le nom de l'entreprise est requis",
+        "countryRequired": "Le pays est requis",
+        "countryCodeRequired": "Le code pays est requis",
+        "servicesRequired": "Veuillez sélectionner au moins un service",
+        "descriptionRequired": "La description du projet est requise",
+        "descriptionMinLength": "Veuillez fournir au moins 20 caractères",
+        "phoneTooShort": "Numéro de téléphone trop court",
+        "phoneTooLong": "Numéro de téléphone trop long",
+        "preferredDateRequired": "La date préférée est requise",
+        "preferredTimeRequired": "L'heure préférée est requise"
+      },
+      "services": {
+        "dataAnalytics": "Analyse de Données et IA",
+        "consulting": "Conseil d'Entreprise",
+        "financialIntelligence": "Intelligence Financière",
+        "marketResearch": "Recherche de Marché",
+        "performanceAnalysis": "Analyse de Performance",
+        "forecasting": "Prévisions et Prédictions",
+        "visualReporting": "Rapports Visuels et Tableaux de Bord",
+        "customReporting": "Solutions de Rapports Personnalisés",
+         "other": "Autres Services"
+      },
+      "fillAllFields": "Veuillez remplir tous les champs requis ci-dessus pour activer l'envoi.",
+      "submissionNotice": "En soumettant, vous acceptez de recevoir des mises à jour sur nos services d'analyse et la planification de consultations."
+    }
+  },
+  "footer": {
+    "description": "Transformer les données en avantage stratégique grâce à des solutions d'analyse innovantes qui responsabilisent les décideurs en Afrique et au-delà.",
+    "sections": {
+      "services": {
+        "title": "Services",
+        "dataAnalytics": "Analyse de Données",
+        "consulting": "Conseil d'Entreprise",
+        "financialIntelligence": "Intelligence Financière",
+        "marketResearch": "Recherche de Marché"
+      },
+      "company": {
+        "title": "Entreprise",
+        "aboutUs": "À Propos de Nous",
+        "contact": "Contact",
+        "privacyPolicy": "Politique de Confidentialité",
+        "termsOfService": "Conditions d'Utilisation"
+      },
+      "contactInfo": {
+        "title": "Informations de Contact",
+        "location": {
+          "line1": "Banapa, Malabo",
+          "line2": "Guinée Équatoriale"
+        },
+        "phone": "+240 222 108 272"
+      },
+      "copyright": "© {{year}} ANDEDA Analytics & Consulting. Tous droits réservés."
+    }
+  },
+  "privacyPolicy": {
+    "title": "Politique de Confidentialité",
+    "subtitle": "Votre confidentialité est importante pour nous. Cette politique explique comment nous collectons, utilisons et protégeons vos informations.",
+    "lastUpdated": "Dernière mise à jour : {{date}}",
+    "sections": {
+      "informationWeCollect": {
+        "title": "Informations que Nous Collectons",
+        "personalInfo": {
+          "title": "Informations Personnelles",
+          "description": "Nous collectons les informations personnelles que vous nous fournissez directement, telles que :",
+          "items": [
+            "Nom et informations de contact (e-mail, téléphone)",
+            "Informations sur l'entreprise et titre du poste",
+            "Informations commerciales et exigences du projet",
+            "Préférences de communication et fuseau horaire"
+          ]
+        },
+        "businessData": {
+          "title": "Données Commerciales",
+          "description": "Avec votre consentement, nous pouvons accéder et analyser :",
+          "items": [
+            "Données commerciales à des fins d'analyse",
+            "Métriques de performance et indicateurs clés",
+            "Informations système et configurations techniques",
+            "Données d'utilisation et modèles d'interaction"
+          ]
+        }
+      },
+      "howWeUse": {
+        "title": "Comment Nous Utilisons Vos Informations",
+        "description": "Nous utilisons les informations collectées pour :",
+        "items": [
+          "Fournir des services d'analyse de données et de conseil",
+          "Personnaliser nos services selon vos besoins spécifiques",
+          "Communiquer avec vous concernant les projets et mises à jour",
+          "Améliorer nos services et développer de nouvelles fonctionnalités",
+          "Se conformer aux obligations légales et réglementaires"
+        ]
+      },
+      "dataProtection": {
+        "title": "Protection des Données",
+        "description": "Nous mettons en œuvre des mesures de sécurité robustes pour protéger vos informations :",
+        "items": [
+          "Chiffrement des données en transit et au repos",
+          "Contrôles d'accès stricts et authentification",
+          "Audits de sécurité réguliers et évaluations de vulnérabilité",
+          "Formation du personnel aux meilleures pratiques de protection des données"
+        ]
+      },
+      "dataSharing": {
+        "title": "Partage de Données",
+        "description": "Nous ne vendons, commercialisons ou transférons pas vos informations personnelles à des tiers, sauf :",
+        "items": [
+          "Avec votre consentement explicite",
+          "Pour se conformer aux exigences légales",
+          "Pour protéger nos droits et notre sécurité",
+          "Avec des fournisseurs de services de confiance sous des accords de confidentialité stricts"
+        ]
+      },
+      "yourRights": {
+        "title": "Vos Droits",
+        "description": "Vous avez les droits suivants concernant vos informations personnelles :",
+        "items": [
+          "Accès : Demander des copies de vos informations personnelles",
+          "Rectification : Demander la correction d'informations inexactes",
+          "Effacement : Demander la suppression de vos informations personnelles",
+          "Restriction : Demander la limitation du traitement de vos informations",
+          "Portabilité : Demander le transfert de vos informations à une autre organisation",
+          "Objection : Vous opposer au traitement de vos informations personnelles"
+        ]
+      },
+      "dataRetention": {
+        "title": "Rétention des Données",
+        "description": "Nous conservons vos informations personnelles seulement aussi longtemps que nécessaire pour :",
+        "items": [
+          "Remplir les objectifs pour lesquels elles ont été collectées",
+          "Satisfaire aux exigences légales, comptables ou de rapport",
+          "Résoudre les litiges et faire respecter nos accords",
+          "Protéger contre les activités frauduleuses ou malveillantes"
+        ]
+      },
+      "internationalTransfers": {
+        "title": "Transferts Internationaux",
+        "description": "Vos données peuvent être transférées et traitées dans des pays en dehors de votre résidence. Nous nous assurons que de tels transferts respectent les lois applicables de protection des données et fournissons des garanties appropriées."
+      },
+      "contact": {
+        "title": "Informations de Contact",
+        "description": "Si vous avez des questions sur cette Politique de Confidentialité ou sur la façon dont nous traitons vos informations personnelles, veuillez nous contacter :"
+      },
+      "policyUpdates": {
+        "title": "Mises à Jour de Politique",
+        "description": "Nous pouvons mettre à jour cette Politique de Confidentialité de temps en temps. Nous vous informerons de tout changement matériel par e-mail ou via notre site web. Votre utilisation continue de nos services après les changements constitue une acceptation de la politique mise à jour."
+      }
+    }
+  },
+  "termsOfService": {
+    "title": "Conditions d'Utilisation",
+    "subtitle": "Ces conditions régissent votre utilisation des services d'analyse et de conseil d'ANDEDA.",
+    "lastUpdated": "Dernière mise à jour : {{date}}",
+    "sections": {
+      "agreementToTerms": {
+        "title": "Accord aux Conditions",
+        "description": "En accédant et en utilisant les services d'ANDEDA, vous acceptez d'être lié par ces Conditions d'Utilisation et toutes les lois et réglementations applicables.",
+        "additionalInfo": "Si vous n'êtes pas d'accord avec l'une de ces conditions, il vous est interdit d'utiliser ou d'accéder à nos services."
+      },
+      "servicesDescription": {
+        "title": "Description des Services",
+        "description": "ANDEDA fournit des services professionnels d'analyse de données et de conseil incluant :",
+        "items": [
+          "Services d'analyse de données et d'intelligence artificielle",
+          "Conseil stratégique et opérationnel d'entreprise",
+          "Services d'intelligence financière et de planification",
+          "Recherche de marché et analyse concurrentielle",
+          "Solutions de rapports personnalisés et visualisation de données"
+        ],
+        "additionalInfo": "Tous les services sont fournis sous réserve de disponibilité et peuvent nécessiter des accords contractuels séparés."
+      },
+      "userResponsibilities": {
+        "title": "Responsabilités de l'Utilisateur",
+        "description": "En tant qu'utilisateur de nos services, vous êtes responsable de :",
+        "items": [
+          "Fournir des informations précises et complètes",
+          "Maintenir la confidentialité de toute information d'accès",
+          "Utiliser nos services uniquement à des fins légales et autorisées",
+          "Se conformer à toutes les lois et réglementations applicables",
+          "Notifier immédiatement toute utilisation non autorisée de votre compte"
+        ]
+      },
+      "dataConfidentiality": {
+        "title": "Données et Confidentialité",
+        "clientDataProtection": {
+          "title": "Protection des Données Client",
+          "description": "Nous nous engageons à protéger la confidentialité et l'intégrité de toutes les données client. Nous mettons en œuvre des mesures de sécurité robustes et nous conformons aux normes de protection des données reconnues internationalement."
+        },
+        "nonDisclosure": {
+          "title": "Non-Divulgation",
+          "description": "Toutes les informations confidentielles échangées pendant notre engagement professionnel seront soumises à des accords stricts de non-divulgation et ne seront pas partagées avec des tiers sans votre consentement express."
+        }
+      },
+      "paymentTerms": {
+        "title": "Conditions de Paiement",
+        "items": [
+          "Les honoraires sont déterminés selon la portée du projet et détaillés dans des accords contractuels séparés",
+          "Le paiement est généralement requis selon les jalons du projet ou les termes convenus",
+          "Les paiements en retard peuvent être soumis à des frais d'intérêt selon les lois locales",
+          "Tous les honoraires sont non remboursables une fois le travail commencé, sauf spécification contraire dans les contrats individuels"
+        ]
+      },
+      "intellectualProperty": {
+        "title": "Propriété Intellectuelle",
+        "andedaProperty": {
+          "title": "Propriété d'ANDEDA",
+          "description": "ANDEDA conserve tous les droits sur ses méthodologies propriétaires, outils, modèles et savoir-faire général développés indépendamment des projets clients."
+        },
+        "clientProperty": {
+          "title": "Propriété du Client",
+          "description": "Les clients conservent la propriété de toutes les données, informations confidentielles et propriété intellectuelle préexistante qu'ils fournissent à ANDEDA."
+        },
+        "deliverables": {
+          "title": "Livrables",
+          "description": "Les droits de propriété sur les livrables spécifiques au projet seront définis dans des accords contractuels individuels, accordant typiquement au client des droits d'utilisation complets tandis qu'ANDEDA conserve les droits sur les méthodologies générales."
+        }
+      },
+      "serviceLimitations": {
+        "title": "Limitations de Service",
+        "items": [
+          "Les services sont soumis à disponibilité et peuvent nécessiter des délais d'attente",
+          "Certains services spécialisés peuvent nécessiter des ressources ou outils supplémentaires",
+          "Les calendriers de projet sont des estimations et peuvent varier selon la complexité",
+          "Nous nous réservons le droit de refuser des projets qui ne s'alignent pas avec nos valeurs ou capacités"
+        ]
+      },
+      "disclaimers": {
+        "title": "Avis de Non-Responsabilité",
+        "serviceWarranty": {
+          "title": "Garantie de Service",
+          "description": "Bien que nous nous efforcions de fournir des services de haute qualité, nous ne garantissons pas de résultats spécifiques. Nos services sont fournis 'en l'état' et basés sur notre meilleur jugement professionnel."
+        },
+        "limitationOfLiability": {
+          "title": "Limitation de Responsabilité",
+          "description": "En aucun cas ANDEDA ne sera responsable de dommages indirects, accessoires, spéciaux ou consécutifs résultant de l'utilisation de nos services, même si nous avons été informés de la possibilité de tels dommages."
+        }
+      },
+      "termination": {
+        "title": "Résiliation",
+        "description": "L'une ou l'autre partie peut résilier les services avec un préavis écrit tel que spécifié dans les accords contractuels individuels.",
+        "items": [
+          "La résiliation n'affecte pas les droits et obligations accumulés avant la résiliation",
+          "Tout paiement en suspens devient dû immédiatement lors de la résiliation",
+          "Les obligations de confidentialité survivent à la résiliation de l'accord",
+          "ANDEDA peut résilier les services immédiatement pour violation matérielle de ces conditions"
+        ]
+      },
+      "governingLaw": {
+        "title": "Droit Applicable",
+        "description": "Ces conditions seront régies et interprétées selon les lois de la Guinée Équatoriale. Tout litige découlant de ces conditions sera soumis à la juridiction exclusive des tribunaux de Guinée Équatoriale."
+      },
+      "contact": {
+        "title": "Informations de Contact",
+        "description": "Si vous avez des questions sur ces Conditions d'Utilisation, veuillez nous contacter :"
+      },
+      "termsUpdates": {
+        "title": "Mises à Jour des Conditions",
+        "description": "Nous nous réservons le droit de mettre à jour ces conditions à tout moment. Les changements matériels seront communiqués aux clients existants. L'utilisation continue de nos services constitue une acceptation des conditions mises à jour."
+      }
+    }
+  },
+  "notFound": {
+    "message": "Oups ! Page introuvable",
+    "returnHome": "Retour à l'accueil"
+  },
+  "testimonials": {
+    "title": "Entreprises Africaines de Confiance",
+    "subtitle": "Histoires réelles d'entreprises à travers l'Afrique qui ont grandi avec nos solutions d'analyse de données",
+    "stats": {
+      "satisfaction": {
+        "value": "92%",
+        "label": "Satisfaction Client"
+      },
+      "projects": {
+        "value": "50+",
+        "label": "Projets Livrés"
+      },
+      "efficiency": {
+        "value": "25%",
+        "label": "Gain d'Efficacité Moyen"
+      },
+      "countries": {
+        "value": "15+",
+        "label": "Pays Africains"
+      }
+    },
+    "data": [
+      {
+        "id": "1",
+        "name": "Amina Okafor",
+        "title": "Gestionnaire des Opérations",
+        "company": "HealthCare Plus Nigeria",
+        "industry": "Santé",
+        "content": "Andeda Analytics nous a aidés à mieux comprendre nos modèles de flux de patients. Le tableau de bord qu'ils ont créé nous fait économiser environ 8 heures par semaine sur les rapports, et nous pouvons maintenant repérer les tendances que nous manquions auparavant. Cela a été utile pour les opérations de notre clinique.",
+        "rating": 4,
+        "results": "Rapports 30% plus rapides, planification des patients améliorée"
+      },
+      {
+        "id": "2",
+        "name": "Kwame Asante",
+        "title": "Directeur Financier",
+        "company": "Ghana Community Bank",
+        "industry": "Finance",
+        "content": "L'équipe a fourni de bonnes perspectives sur la performance de notre portefeuille de prêts. Bien que la configuration initiale ait pris plus de temps que prévu, les rapports finaux ont été utiles pour nos révisions mensuelles. La visualisation des données est claire et facile à comprendre.",
+        "rating": 3,
+        "results": "20% meilleure évaluation des risques, rapports plus clairs"
+      },
+      {
+        "id": "3",
+        "name": "Fatima Diallo",
+        "title": "Fondatrice",
+        "company": "Dakar Tech Solutions",
+        "industry": "Technologie",
+        "content": "En tant que petite entreprise technologique, nous avions besoin de recherche de marché abordable. Andeda nous a aidés à mieux comprendre nos segments de clients, ce qui a guidé notre développement de produits. Les insights étaient pratiques et exploitables pour notre budget.",
+        "rating": 4,
+        "results": "Feuille de route produit focalisée, 25% croissance des utilisateurs"
+      },
+      {
+        "id": "4",
+        "name": "Joseph Mwangi",
+        "title": "Gestionnaire de Chaîne d'Approvisionnement",
+        "company": "Nairobi Logistics Co.",
+        "industry": "Logistique",
+        "content": "L'analyse de nos itinéraires de livraison était approfondie et pratique. Nous avons mis en œuvre certaines de leurs recommandations et avons vu des améliorations modestes dans nos délais de livraison. Bon rapport qualité-prix pour une entreprise de logistique de taille moyenne comme la nôtre.",
+        "rating": 4,
+        "results": "15% amélioration de l'efficacité de livraison"
+      },
+      {
+        "id": "5",
+        "name": "Aisha Kone",
+        "title": "Directrice Marketing",
+        "company": "Bamako Digital Agency",
+        "industry": "Marketing",
+        "content": "Andeda nous a aidés à mettre en place un meilleur suivi pour les campagnes de nos clients. Le système de rapports fonctionne bien, bien que nous ayons eu besoin de formation pour l'utiliser efficacement. Nos clients apprécient les rapports de performance plus clairs que nous pouvons maintenant fournir.",
+        "rating": 4,
+        "results": "Meilleurs rapports clients, 40% d'économie de temps"
+      },
+      {
+        "id": "6",
+        "name": "Chidi Okwu",
+        "title": "Directeur Général",
+        "company": "Lagos Solar Energy",
+        "industry": "Énergie",
+        "content": "La recherche de marché nous a aidés à mieux comprendre le paysage de l'énergie solaire à Lagos. Certains insights étaient très utiles, d'autres nous les connaissions déjà. Dans l'ensemble, cela nous a donné confiance dans nos plans d'expansion et a aidé à sécuriser des réunions avec des investisseurs.",
+        "rating": 5,
+        "results": "Tour de financement réussi, plan d'entrée sur le marché"
+      }
+    ]
+  },
+  "serviceComparison": {
+    "title": "Trouvez Votre Solution d'Analyse Parfaite",
+    "subtitle": "Comparez nos catégories de services pour trouver le meilleur ajustement à vos besoins et objectifs commerciaux",
+     "chooseService": "Choisissez Votre Service",
+     "whatsIncluded": "Ce Qui Est Inclus",
+     "keyDeliverables": "Livrables Clés",
+     "readyIn": "Prêt en",
+     "getStarted": "Commencer avec",
+     "chooseAnother": "Choisir un autre service",
+     "customSolution": "Besoin d'une solution personnalisée qui combine plusieurs services?",
+    "scheduleCustom": "Programmer une Consultation Personnalisée",
+    "complexity": "Complexité",
+    "teamSize": "Taille de l'Équipe",
+    "bestFor": "Meilleur Pour",
+    "plans": {
+      "dataAnalytics": {
+        "complexity": "Intermédiaire",
+        "teamSize": "2-3 experts",
+        "bestFor": "Entreprises avec des données existantes qui ont besoin de meilleurs insights"
+      },
+      "consulting": {
+        "complexity": "Avancé",
+        "teamSize": "3-4 experts",
+        "bestFor": "Entreprises nécessitant une direction stratégique et une optimisation opérationnelle"
+      },
+      "financialIntelligence": {
+        "complexity": "Expert",
+        "teamSize": "4-5 experts",
+        "bestFor": "Entreprises nécessitant une planification financière avancée et une gestion des risques"
+      },
+      "marketResearch": {
+        "complexity": "Intermédiaire",
+        "teamSize": "2-3 experts",
+        "bestFor": "Startups et entreprises entrant dans de nouveaux marchés ou lançant des produits"
+      }
+    },
+    "features": {
+      "performanceAnalysis": "Analyse de Performance",
+      "performanceAnalysisDesc": "Plongée profonde dans vos métriques actuelles",
+      "performanceAnalysisDescConsulting": "Analyse commerciale complète",
+      "performanceAnalysisDescFinancial": "Analyse approfondie de la performance financière",
+      "performanceAnalysisDescMarket": "Analyse de la performance du marché",
+      "forecastingModels": "Modèles de Prévision",
+      "forecastingModelsDesc": "Prédire les tendances et résultats futurs",
+      "forecastingModelsDescConsulting": "Modèles de planification stratégique",
+      "forecastingModelsDescFinancial": "Modélisation financière avancée",
+      "forecastingModelsDescMarket": "Prévision des tendances du marché",
+      "customDashboards": "Tableaux de Bord Personnalisés",
+      "customDashboardsDesc": "Rapports visuels en temps réel",
+      "customDashboardsDescConsulting": "Tableaux de bord exécutifs",
+      "customDashboardsDescFinancial": "Tableaux de bord d'intelligence financière",
+      "customDashboardsDescMarket": "Tableaux de bord d'intelligence de marché",
+      "dataIntegration": "Intégration de Données",
+      "dataIntegrationDesc": "Connecter plusieurs sources de données",
+      "dataIntegrationDescConsulting": "Connectivité de données d'entreprise",
+      "dataIntegrationDescFinancial": "Intégration de systèmes financiers",
+      "strategicConsulting": "Conseil Stratégique",
+      "strategicConsultingDesc": "Orientation stratégique experte",
+      "strategicConsultingDescFinancial": "Orientation de stratégie financière",
+      "strategicConsultingDescMarket": "Conseil en stratégie de marché",
+      "financialIntelligence": "Intelligence Financière",
+      "financialIntelligenceDesc": "Suite financière complète",
+      "marketResearch": "Recherche de Marché",
+      "marketResearchDesc": "Analyse de marché complète",
+      "complianceReview": "Examen de Conformité",
+      "complianceReviewDesc": "Audit de conformité opérationnelle",
+      "complianceReviewDescFinancial": "Audit de conformité financière"
+    },
+    "deliverables": {
+      "dataAnalytics": {
+        "dashboard": "Tableau de bord d'analyse interactive",
+        "reporting": "Système de rapports automatisé",
+        "metrics": "Cadre de métriques de performance",
+        "integration": "Configuration d'intégration de données",
+        "training": "Documentation de formation"
+      },
+      "consulting": {
+        "roadmap": "Document de feuille de route stratégique",
+        "optimization": "Plan d'optimisation opérationnelle",
+        "dashboard": "Suite de tableaux de bord exécutifs",
+        "monitoring": "Système de surveillance des performances",
+        "guidelines": "Directives d'implémentation"
+      },
+      "financialIntelligence": {
+        "assessment": "Évaluation de la santé financière",
+        "budgeting": "Cadre de planification budgétaire",
+        "cashflow": "Système de gestion des flux de trésorerie",
+        "risk": "Rapport d'évaluation des risques",
+        "compliance": "Documentation de conformité"
+      },
+      "marketResearch": {
+        "analysis": "Rapport d'analyse de marché",
+        "insights": "Étude d'insights clients",
+        "competitive": "Analyse du paysage concurrentiel",
+        "entry": "Stratégie d'entrée sur le marché",
+        "recommendations": "Recommandations de mise sur le marché"
+      }
+    }
+  },
+  "caseStudies": {
+    "title": "Résultats Prouvés pour Nos Clients",
+    "subtitle": "Voyez comment nous avons transformé des entreprises dans toutes les industries avec des solutions basées sur les données qui livrent un ROI mesurable",
+    "solution": "Solution",
+    "results": "Résultats",
+    "metrics": {
+      "efficiency": "Efficacité",
+      "costs": "Coûts",
+      "decisions": "Décisions Plus Rapides",
+      "roi": "ROI"
+    },
+    "viewFull": "Voir l'Étude de Cas Complète",
+    "seeAll": "Voir Toutes les Études de Cas"
+  },
+  "roiCalculator": {
+    "title": "Calculateur de ROI",
+    "mainTitle": "Calculez Votre Retour sur Investissement en Analyse",
+    "subtitle": "Obtenez une estimation des économies potentielles de temps et de coûts de nos solutions d'analyse",
+    "disclaimer": {
+      "title": "Avertissement:",
+      "content": "Ce calculateur fournit des estimations basées sur les moyennes de l'industrie et des hypothèses conservatrices. Les résultats réels peuvent varier selon l'implémentation, les facteurs spécifiques à l'entreprise et les conditions du marché. Consultez notre équipe pour une analyse détaillée adaptée à votre situation spécifique."
+    },
+    "form": {
+      "title": "Votre Situation Actuelle",
+      "description": "Parlez-nous de votre processus actuel d'analyse de données",
+      "selectCurrency": "Sélectionnez votre devise:",
+      "teamSize": "Taille de l'Équipe",
+      "hoursPerDay": "Heures par jour",
+      "daysPerWeek": "Jours/semaine",
+      "salaryType": "Type de Salaire",
+      "analysisDuration": "Durée d'Analyse",
+      "companySize": "Taille de l'Entreprise",
+      "currentAnalyticsTools": "Outils d'Analyse Actuels",
+      "dataVolume": "Volume de Données",
+      "calculateButton": "Calculer Mon ROI",
+      "clearButton": "Effacer le Formulaire",
+      "scheduleCallButton": "Programmer un Appel Stratégique",
+      "scheduleCallNote": "Discutons de la façon d'atteindre ces résultats pour votre entreprise",
+      "salaryTypes": {
+        "daily": "Salaire Quotidien",
+        "weekly": "Salaire Hebdomadaire",
+        "monthly": "Salaire Mensuel"
+      },
+      "durations": {
+        "6months": "6 Mois",
+        "1year": "1 An"
+      },
+      "companySizes": {
+        "startup": "Startup (1-10 employés)",
+        "small": "Petite (11-50 employés)",
+        "medium": "Moyenne (51-200 employés)",
+        "large": "Grande (201-1000 employés)",
+        "enterprise": "Entreprise (1000+ employés)"
+      },
+      "analyticsTools": {
+        "none": "Aucun outil d'analyse",
+        "manual": "Manuel (Excel/Google Sheets)",
+        "basic": "Outils de base (Power BI, Tableau)",
+        "advanced": "Plateforme d'analyse avancée"
+      },
+      "dataVolumes": {
+        "low": "Faible (< 1GB)",
+        "medium": "Moyen (1-10GB)",
+        "high": "Élevé (10-100GB)",
+        "veryHigh": "Très Élevé (> 100GB)"
+      },
+      "salaryLabels": {
+        "daily": "Salaire Quotidien Moyen",
+        "weekly": "Salaire Hebdomadaire Moyen",
+        "monthly": "Salaire Mensuel Moyen"
+      },
+      "days": {
+        "1": "1 jour",
+        "2": "2 jours",
+        "3": "3 jours",
+        "4": "4 jours",
+        "5": "5 jours",
+        "6": "6 jours",
+        "7": "7 jours"
+      },
+      "errors": {
+        "salary": "Veuillez entrer un montant de salaire valide",
+        "employees": "Veuillez entrer une taille d'équipe valide",
+        "hoursPerDay": "Veuillez entrer des heures valides par jour"
+      }
+    },
+    "results": {
+      "title": "Votre ROI Potentiel",
+      "subtitle": "Basé sur nos résultats prouvés avec des entreprises similaires",
+      "lessTime": "Moins de Temps sur le Travail Manuel",
+      "hoursFreed": "Heures libérées pour les tâches stratégiques",
+      "moneySaved": "Argent Économisé Par",
+      "directCost": "Réduction directe des coûts grâce à l'efficacité",
+      "returnInvestment": "Retour sur Investissement",
+      "roiPercentage": "Du pourcentage ROI standard, c'est ce que vous obtenez",
+      "breakEven": "Temps de Rentabilité",
+      "whenPayback": "Quand l'investissement se rembourse",
+      "months": "mois",
+      "currentVsOptimized": "Coûts Actuels vs. Optimisés",
+      "howCalculated": "Comment nous avons calculé vos économies:",
+      "currencyNote": {
+        "title": "Note sur la Devise:",
+        "content": "Si ce n'est pas la devise de votre pays, veuillez la changer dans le formulaire ci-dessus en utilisant le sélecteur de devise. Tous les calculs s'ajusteront automatiquement à votre devise sélectionnée pour une tarification locale précise."
+      },
+      "calculation": {
+        "individualCost": "Coût Individuel:",
+        "individualCostDesc": "Chacun de vos {employees} employés gagne {salary}/{period}",
+        "hourlyRate": "Taux Horaire:",
+        "hourlyRateDesc": "{rate}/heure",
+        "currentExpenditure": "Dépense {duration} Actuelle:",
+        "currentExpenditureDesc": "{employees} employés × {hours} heures/semaine × {weeks} semaines = {cost} - c'est ce que vous payez chaque {period}",
+        "andedaSolutionImpact": "Impact de la Solution ANDEDA:",
+        "dataAnalyticsTools": "Outils d'Analyse de Données:",
+        "dataAnalyticsDesc": "Rapports automatisés et tableaux de bord visuels réduisent le travail manuel de {percent}%",
+        "businessConsulting": "Conseil d'Entreprise:",
+        "businessConsultingDesc": "Les insights stratégiques éliminent l'analyse redondante de {percent}%",
+        "financialIntelligence": "Intelligence Financière:",
+        "financialIntelligenceDesc": "Les prévisions intelligentes réduisent le temps de planification de {percent}%",
+        "marketResearch": "Recherche de Marché:",
+        "marketResearchDesc": "Les insights prêts à l'emploi économisent du temps de recherche de {percent}%",
+        "combinedEffect": "Effet Combiné:",
+        "combinedEffectDesc": "{percent}% gain d'efficacité total = {hours} heures/semaine libérées pour le travail stratégique",
+        "totalCost": "Coût {duration} Total pour {employees} employés:",
+        "savings": "Ce que vous économiserez sur cette période {period}:",
+        "teamGetsBack": "Votre équipe récupère:",
+        "hoursPerWeek": "{hours} heures/semaine",
+        "betterPerformance": "{percent}% meilleure performance d'entreprise",
+        "day": "jour",
+        "week": "semaine",
+        "month": "mois",
+        "6months": "6 mois",
+        "year": "année",
+        "6Month": "6 Mois",
+        "Annual": "Annuel",
+        "6month": "6 mois",
+        "annual": "annuel"
+      },
+      "achieveSavings": {
+        "title": "💡 Comment Réellement Atteindre Ces Économies:",
+        "option1Title": "Option 1 - Redéployez Votre Équipe:",
+        "option1Point1": "Gardez tous les {employees} employés mais redirigez leurs {hours} heures/semaine libérées vers des activités génératrices de revenus",
+        "option1Point2": "Concentrez-les sur les ventes, le service client, le développement de produits ou la planification stratégique",
+        "option1Point3": "Cela crée une valeur supplémentaire sans réduire les effectifs",
+        "option2Title": "Option 2 - Optimisez la Taille de l'Équipe:",
+        "option2Point1": "Réduisez l'équipe de {employees} employé(s) tout en maintenant le même résultat",
+        "option2Point2": "Économies salariales: {savings} annuellement",
+        "option2Point3": "L'équipe restante se concentre sur un travail stratégique de plus grande valeur",
+        "option3Title": "Option 3 - Réduisez les Heures Supplémentaires et les Coûts Externes:",
+        "option3Point1": "Réduisez les paiements d'heures supplémentaires et les frais de consultants externes coûteux",
+        "option3Point2": "Votre équipe interne efficace peut gérer la charge de travail plus rapidement",
+        "option3Point3": "Redirigez toute dépense d'analyse externe vers d'autres priorités commerciales",
+        "roiInvestment": "💰 Où Va Votre Investissement ROI:",
+        "roiInvestmentDesc": "Vous investissez dans la solution d'analyse d'ANDEDA (l'investissement varie selon la portée) et pouvez économiser {savings} grâce aux méthodes ci-dessus."
+      }
+    },
+    "duration": {
+      "6months": "6 Mois",
+      "year": "Année",
+      "6monthAnalysis": "Analyse de 6 Mois",
+      "annualAnalysis": "Analyse Annuelle"
+    }
+  },
+  "partners": {
+    "title": "Approuvé par",
+    "leaders": "Les Leaders d'Entreprise",
+    "subtitle": "Partenariat avec des organisations visionnaires pour débloquer la croissance basée sur les données et l'avantage stratégique.",
+    "footer": "Construire des partenariats durables grâce à des résultats mesurables et à l'innovation stratégique."
+  }
+}

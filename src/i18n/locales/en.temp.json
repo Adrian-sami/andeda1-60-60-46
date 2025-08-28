@@ -1,0 +1,877 @@
+{
+  "nav": {
+    "home": "Accueil",
+    "services": "Services",
+    "analytics": "Analytique",
+    "about": "À Propos de Nous",
+    "contact": "Contactez-nous"
+  },
+  "common": {
+    "scheduleConsultation": "Programmer une Consultation",
+    "getInTouch": "Entrer en Contact",
+    "businessHours": "Heures d'Ouverture",
+    "email": "E-mail",
+    "phone": "Téléphone",
+    "whatsapp": "WhatsApp",
+    "office": "Bureau",
+    "learnMore": "En Savoir Plus",
+    "showLess": "Montrer Moins",
+    "bookNow": "Réserver Maintenant",
+    "schedule": "Réserver",
+    "whatsappMessage": {
+      "greeting": "Bonjour ANDEDA! 👋\n\nJe suis intéressé par vos services et j'aimerais en savoir plus sur la façon dont vous pouvez aider mon entreprise à croître.\n\nJe suis particulièrement intéressé par:",
+      "services": "• Solutions d'Analyse de Données et IA\n• Services de Conseil d'Entreprise\n• Intelligence Financière et Planification\n• Recherche de Marché et Stratégie",
+      "closing": "Pourriez-vous fournir plus d'informations sur vos services et programmer une consultation?\n\nJ'ai hâte de m'associer avec des experts qui peuvent fournir des insights exploitables et générer de vrais résultats commerciaux.\n\nMerci! 🙏",
+      "serviceSpecific": "Bonjour ANDEDA! 👋\n\nJe suis intéressé par votre service \"{service}\".\n\nJ'aimerais spécifiquement en savoir plus sur:\n\n{details}\n\nPourriez-vous fournir plus d'informations sur les prix et comment nous pouvons commencer?\n\nMerci! 🙏"
+    }
+  },
+  "hero": {
+    "title": "Nous Transformons Vos Données en Avantage Stratégique",
+    "titlePart1": "Nous Transformons Vos",
+    "titlePart2": "Données en Avantage Stratégique",
+    "subtitle": "Nous responsabilisons les décideurs grâce à des analyses fiables, du conseil stratégique, du conseil d'entreprise et une recherche de marché complète qui stimule la croissance durable en Afrique et au-delà.",
+    "scheduleConsultation": "Programmer une Consultation",
+    "seeWhatBuilding": "Voir Ce Que Nous Construisons",
+    "organizationsEmpowered": "Organisations Responsabilisées",
+    "dataAccuracy": "Précision des Données",
+    "endUsersReached": "Utilisateurs Finaux Atteints"
+  },
+  "services": {
+    "title": "Services",
+    "headerPrefix": "",
+    "headerMain": "Services",
+    "subtitle": "Services d'analyse et de conseil complets conçus pour transformer vos données en avantages concurrentiels stratégiques.",
+    "walkAwayWith": "Vous Repartirez Avec",
+    "whoWeAre": {
+      "title": "Qui Nous Sommes",
+      "description": "ANDEDA est une société de conseil axée sur les données, spécialisée dans la transformation d'informations complexes en insights stratégiques. Notre équipe d'analystes et de consultants expérimentés travaille en étroite collaboration avec les organisations pour découvrir des renseignements exploitables qui stimulent la croissance et l'excellence opérationnelle."
+    },
+    "dataAnalytics": {
+      "title": "Analyse de Données",
+      "description": "Transformez les données brutes en insights significatifs qui stimulent une prise de décision plus intelligente. Nous appliquons des modèles statistiques, une analyse des tendances et des visualisations personnalisées pour révéler des modèles cachés et des résultats futurs.",
+      "subServices": {
+        "performanceAnalysis": {
+          "title": "Analyse de Performance",
+          "description": "Analyse des données de ventes, clients et opérations pour identifier les tendances et les opportunités d'optimisation dans toute votre entreprise.",
+          "benefits": [
+            "Insights clairs sur la performance et identification des tendances",
+            "Identification des goulots d'étranglement et axes d'amélioration",
+            "Analyse comparative concurrentielle et positionnement",
+            "Recommandations actionnables pour l'optimisation de la croissance"
+          ]
+        },
+        "forecasting": {
+          "title": "Prévisions & Tendances",
+          "description": "Utilisez des modèles prédictifs pour anticiper les résultats futurs, les tendances saisonnières et les opportunités de marché pour la planification stratégique.",
+          "benefits": [
+            "Prévisions fiables avec intervalles de confiance",
+            "Reconnaissance et planification des schémas saisonniers",
+            "Évaluation des risques et systèmes d'alerte précoce",
+            "Conseils stratégiques pour l'investissement et le timing"
+          ]
+        },
+        "visualReporting": {
+          "title": "Rapports Visuels",
+          "description": "Créez des tableaux de bord interactifs et des rapports visuels qui transforment des données complexes en insights faciles à comprendre.",
+          "benefits": [
+            "Tableaux de bord exécutifs avec mises à jour en temps réel",
+            "Plateformes de reporting adaptatives mobile",
+            "Génération automatique d'insights et alertes",
+            "Visualisations personnalisées pour les parties prenantes"
+          ]
+        },
+        "customReporting": {
+          "title": "Solutions d'Analytique Personnalisées",
+          "description": "Construisez une infrastructure analytique sur mesure et des systèmes de reporting automatisés adaptés à vos besoins spécifiques.",
+          "benefits": [
+            "Plateformes et outils d'analytique personnalisés",
+            "Mise en place de pipelines de données automatisés",
+            "Intégration avec vos systèmes métier existants",
+            "Formation complète et support continu"
+          ]
+        }
+      }
+    },
+    "consulting": {
+      "title": "Conseil d'Entreprise", 
+      "description": "Nous fournissons des conseils stratégiques d'entreprise basés sur une analyse approfondie des données ou une consultation directe avec les propriétaires d'entreprises. Notre expertise vous aide à naviguer les défis et optimiser les opérations dans tous les aspects de votre entreprise.",
+      "subServices": {
+        "dataBasedConsulting": {
+          "title": "Conseil Basé sur les Données",
+          "description": "Analyser les données de votre entreprise pour fournir des recommandations stratégiques. Examiner les métriques de performance, identifier les opportunités d'optimisation et développer des plans d'action basés sur vos chiffres.",
+          "benefits": [
+            "Recommandations basées sur des preuves sur lesquelles vous pouvez compter",
+            "Compréhension claire de ce qui anime votre entreprise",
+            "Stratégies exploitables pour améliorer les performances",
+            "Solutions soutenues par les données pour les défis commerciaux"
+          ]
+        },
+        "operationalConsulting": {
+          "title": "Conseil Opérationnel",
+          "description": "Travailler directement avec les propriétaires d'entreprises et les équipes de gestion pour évaluer les opérations, examiner les processus et examiner les documents commerciaux pour identifier les domaines d'amélioration.",
+          "benefits": [
+            "Perspective externe experte sur vos opérations",
+            "Recommandations d'optimisation des processus",
+            "Efficacité et productivité améliorées",
+            "Orientation stratégique pour une croissance durable"
+          ]
+        },
+        "managementConsulting": {
+          "title": "Conseil en Gestion et Stratégie",
+          "description": "Collaborer avec la direction pour examiner le statut de l'entreprise, évaluer les pratiques de gestion et développer des initiatives stratégiques. Nous examinons la structure organisationnelle et le positionnement stratégique.",
+          "benefits": [
+            "Efficacité de leadership améliorée",
+            "Meilleur alignement organisationnel",
+            "Clarté et direction stratégiques",
+            "Meilleurs cadres de prise de décision"
+          ]
+        },
+        "complianceStatusReview": {
+          "title": "Examen de Conformité et de Statut",
+          "description": "Examiner les documents de l'entreprise, le statut de conformité, les exigences réglementaires et les certifications commerciales. S'assurer que votre entreprise respecte toutes les normes et réglementations nécessaires.",
+          "benefits": [
+            "Risques de conformité réduits",
+            "Compréhension claire des exigences réglementaires",
+            "Crédibilité commerciale améliorée",
+            "Tranquillité d'esprit concernant la position légale"
+          ]
+        }
+      }
+    },
+    "financialIntelligence": {
+      "title": "Intelligence Financière",
+      "description": "Stimulez la rentabilité et la clarté financière avec une analyse experte, des prévisions et une planification. Nous guidons les entreprises à travers des stratégies financières solides soutenues par la modélisation de données et les simulations de scénarios.",
+      "subServices": {
+        "financialHealthReview": {
+          "title": "Revue de Santé Financière",
+          "description": "Analyser les états financiers, les flux de trésorerie et les indicateurs clés. Comparer aux références sectorielles et identifier des pistes d’optimisation.",
+          "benefits": [
+            "Évaluation des forces et faiblesses financières",
+            "Comparaisons avec les benchmarks du secteur",
+            "Stratégies d’optimisation des coûts et d’augmentation des revenus",
+            "Tableau de bord de santé financière avec insights actionnables"
+          ]
+        },
+        "budgetPlanningForecasting": {
+          "title": "Planification Budgétaire & Prévisions",
+          "description": "Élaborer des cadres budgétaires adaptés à votre modèle. Créer des prévisions à partir des données historiques et projections de marché.",
+          "benefits": [
+            "Élaboration d’un cadre budgétaire stratégique",
+            "Prévisions financières précises avec scénarios",
+            "Suivi et analyse du budget en temps réel",
+            "Contrôle financier renforcé et responsabilisation"
+          ]
+        },
+        "cashFlowManagement": {
+          "title": "Gestion de Trésorerie",
+          "description": "Mettre en place des systèmes de suivi des encaissements et décaissements. Modèles de prévision pour gérer la liquidité.",
+          "benefits": [
+            "Systèmes avancés de prévision de trésorerie",
+            "Stratégies d’échéancier de paiements et de recouvrement",
+            "Plans d’optimisation du fonds de roulement",
+            "Systèmes d’alerte précoce pour les tensions de cash"
+          ]
+        },
+        "riskComplianceSupport": {
+          "title": "Gestion des Risques & Conformité",
+          "description": "Évaluer les risques financiers et la conformité réglementaire. Développer des stratégies de mitigation et de suivi.",
+          "benefits": [
+            "Matrice complète d’évaluation des risques",
+            "Audit de conformité réglementaire documenté",
+            "Optimisation des contrôles internes",
+            "Capacités renforcées de préparation aux audits"
+          ]
+        }
+      }
+    },
+    "marketResearch": {
+      "title": "Recherche de Marché et Stratégie",
+      "description": "Comprenez votre marché, vos clients et les tendances pour prendre des décisions stratégiques éclairées. Nos solutions de recherche découvrent ce qui anime les dynamiques du marché et le comportement des consommateurs, vous donnant un avantage concurrentiel.",
+      "subServices": {
+        "industryMarketReviews": {
+          "title": "Analyses d’Industrie & de Marché",
+          "description": "Analyser la taille de marché, la concurrence et les tendances de croissance pour un positionnement stratégique.",
+          "benefits": [
+            "Analyse du paysage sectoriel et dimensionnement du marché",
+            "Veille concurrentielle et stratégies de positionnement",
+            "Évaluation des opportunités et leviers de croissance",
+            "Vue d’ensemble réglementaire pour la planification"
+          ]
+        },
+        "customerInsights": {
+          "title": "Insights Clients",
+          "description": "Déployer des méthodes d’étude client: analyses comportementales, segmentation et cartographie des préférences.",
+          "benefits": [
+            "Segmentation client avec profils comportementaux",
+            "Cartographie et optimisation du parcours client",
+            "Analyse des facteurs de décision d’achat",
+            "Stratégies de satisfaction et de fidélisation"
+          ]
+        },
+        "startupFeasibilitySupport": {
+          "title": "Études de Faisabilité Start-up",
+          "description": "Évaluer la viabilité: validation marché, modèle d’affaires, et potentiel de rentabilité.",
+          "benefits": [
+            "Validation du marché et évaluation d’opportunités",
+            "Viabilité du modèle économique avec projections de revenus",
+            "Stratégies d’avantage compétitif",
+            "Faisabilité financière avec besoins de financement"
+          ]
+        },
+        "investorPartnerSupport": {
+          "title": "Support Investisseurs & Partenaires",
+          "description": "Élaborer dossiers d’investissement et due diligence: analyses de marché, positionnement, projections de croissance.",
+          "benefits": [
+            "Conception professionnelle de pitch d’investissement",
+            "Dossiers de due diligence avec projections",
+            "Quantification de l’opportunité de marché",
+            "Stratégie de partenariat et alignement de valeur"
+          ]
+        }
+      }
+    }
+  },
+  "about": {
+    "title": "À Propos d'ANDEDA",
+    "subtitle": "Transformer les données en avantage stratégique grâce à des solutions d'analyse innovantes qui responsabilisent les décideurs en Afrique et au-delà.",
+    "mission": {
+      "title": "Mission d'Andeda",
+      "description": "Responsabiliser les entreprises et les investisseurs avec des conseils financiers experts, une analyse de données de pointe et une planification stratégique pour atteindre leurs objectifs financiers."
+    },
+    "vision": {
+      "title": "Vision d'Andeda",
+      "description": "Devenir la principale firme de conseil financier et d'analyse de données en Afrique et au-delà, livrant des solutions intelligentes qui stimulent la croissance, l'efficacité et la valeur à long terme pour nos clients."
+    },
+    "values": {
+      "title": "Nos Valeurs",
+      "subtitle": "Les principes qui guident tout ce que nous faisons chez ANDEDA",
+      "excellence": {
+        "title": "Excellence",
+        "description": "Nous nous efforçons d'atteindre la plus haute qualité dans tout ce que nous livrons, en veillant à ce que nos clients reçoivent des solutions d'analyse de classe mondiale."
+      },
+      "collaboration": {
+        "title": "Collaboration",
+        "description": "Nous croyons au pouvoir du partenariat et travaillons étroitement avec nos clients pour comprendre leurs défis et objectifs uniques."
+      },
+      "innovation": {
+        "title": "Innovation",
+        "description": "Nous évoluons continuellement nos méthodes et technologies pour rester à la pointe de l'analyse de données et du conseil d'entreprise."
+      }
+    },
+    "expertise": {
+      "title": "Notre Expertise",
+      "subtitle": "Dirigée par des professionnels expérimentés avec une expertise approfondie en science des données, conseil d'entreprise et dynamiques du marché africain.",
+      "dataAnalytics": "Analyse de Données",
+      "dataAnalyticsDesc": "Analyses avancées et insights de performance",
+      "consulting": "Conseil d'Entreprise",
+      "consultingDesc": "Conseils stratégiques et optimisation opérationnelle",
+      "financialIntelligence": "Intelligence Financière",
+      "financialIntelligenceDesc": "Planification financière et gestion des risques",
+      "marketResearch": "Recherche de Marché et Stratégie",
+      "marketResearchDesc": "Insights clients et analyse de marché"
+    },
+    "cta": {
+      "title": "Prêt à Transformer Vos Données?",
+      "subtitle": "Discutons de la façon dont ANDEDA peut vous aider à libérer le pouvoir de vos données et stimuler la croissance stratégique de votre organisation.",
+      "scheduleConsultation": "Programmer une Consultation",
+      "learnMoreServices": "En Savoir Plus Sur Nos Services"
+    },
+    "whyChoose": {
+      "title": "Pourquoi Choisir ANDEDA",
+      "subtitle": "pour Vos Besoins d'Analyse de Données?",
+      "description": "Transformez votre entreprise avec des solutions d'analyse de pointe conçues pour l'entreprise moderne",
+      "realTimeAnalytics": {
+        "title": "Analyse en Temps Réel",
+        "description": "Obtenez des insights instantanés avec le traitement et la visualisation de données en direct"
+      },
+      "predictiveModeling": {
+        "title": "Modélisation Prédictive",
+        "description": "Prévoyez les tendances et prenez des décisions basées sur les données avec confiance"
+      },
+      "expertSupport": {
+        "title": "Support Expert",
+        "description": "Équipe dédiée de scientifiques de données et d'analystes à votre service"
+      },
+      "quickImplementation": {
+        "title": "Implémentation Rapide",
+        "description": "Démarrez rapidement avec notre processus d'intégration rationalisé"
+      }
+    }
+  },
+  "contact": {
+    "hero": {
+      "title": "Entrer en Contact",
+      "subtitle": "Prêt à transformer votre entreprise avec l'intelligence des données ? Discutons de la façon dont nous pouvons vous aider à atteindre vos objectifs."
+    },
+    "info": {
+      "title": "Informations de Contact",
+      "teamTitle": "Entrer en Contact Avec Notre Équipe",
+      "subtitle": "Contactez-nous par l'un de ces canaux. Nous sommes là pour vous aider à réussir avec vos initiatives d'intelligence des données.",
+      "clickToConnect": "Cliquez sur toute information de contact ci-dessous pour vous connecter directement avec nous",
+      "whatsappAction": "Chattez avec nous maintenant",
+      "location": "Banapa, Malabo, Guinée Équatoriale",
+      "hours": "Lun - Ven: 9h00 - 17h00",
+      "technicalSupport": "Support Technique",
+      "techSupportHours": "24/7 sur rendez-vous"
+    },
+    "faq": {
+      "title": "Questions Fréquemment Posées",
+      "subtitle": "Obtenez des réponses rapides aux questions courantes sur nos services et processus",
+      "q1": {
+        "question": "Combien de temps prend un projet typique ?",
+        "answer": "Le processus prend entre quelques jours à 4 semaines maximum selon le travail. Notre approche complète assure que nous comprenons vos exigences uniques et livrons des solutions sur mesure qui génèrent des résultats mesurables."
+      },
+      "q2": {
+        "question": "Travaillez-vous avec les petites entreprises ?",
+        "answer": "Oui ! Nous offrons des solutions évolutives pour les entreprises de toutes tailles, des startups aux grandes entreprises à travers l'Afrique et au-delà. Nous utilisons des outils et frameworks de pointe pour assurer des solutions évolutives, sécurisées et performantes."
+      },
+      "q3": {
+        "question": "Offrez-vous de la formation pour notre équipe ?",
+        "answer": "Oui ! Nous fournissons des sessions de formation complètes pour assurer que votre équipe peut utiliser et maintenir efficacement les solutions analytiques que nous implémentons. Notre formation couvre à la fois les aspects techniques et les meilleures pratiques pour la prise de décision basée sur les données."
+      },
+      "q4": {
+        "question": "Fournissez-vous un support continu ?",
+        "answer": "Absolument ! Nous offrons des packages complets de support et maintenance pour assurer que vos solutions analytiques continuent de créer de la valeur."
+      },
+      "q5": {
+        "question": "Combien coûtent vos services ?",
+        "answer": "Les prix ne sont pas affichés car ils varient selon l'ampleur du travail et des services requis. Nous fournissons des devis personnalisés après avoir compris vos besoins spécifiques lors de notre processus de consultation complet."
+      },
+      "q6": {
+        "question": "Quelles industries servez-vous ?",
+        "answer": "Nous travaillons dans diverses industries incluant la finance, la santé, le retail, la fabrication et les secteurs technologiques. Nos solutions adaptables sont conçues pour répondre aux défis uniques et aux exigences de chaque industrie."
+      },
+      "q7": {
+        "question": "Ne servez-vous que l'Afrique ?",
+        "answer": "Non, nous avons un large champ d'action et sommes ouverts à travailler avec tout le monde à distance et sur site dans le monde entier. Notre portée mondiale nous permet de servir efficacement les clients dans différents fuseaux horaires et régions."
+      }
+    },
+    "form": {
+      "title": "Prêt à Transformer Vos Données ?",
+      "subtitle": "Remplissez le formulaire ci-dessous et discutons de la façon dont nous pouvons vous aider à débloquer le pouvoir de vos données.",
+      "getInTouch": "Entrer en Contact",
+      "tellUsAbout": "Parlez-nous de votre projet et de la façon dont nous pouvons vous aider à transformer vos données en avantage stratégique.",
+      "fullName": "Nom Complet",
+      "emailAddress": "Adresse E-mail",
+        "phoneNumber": "Numéro de Téléphone",
+        "companyName": "Nom de l'Entreprise",
+        "country": "Pays",
+        "currentLocation": "Localisation Actuelle",
+        "preferredDate": "Date Préférée pour Vous Joindre",
+        "preferredTime": "Heure Préférée pour Vous Joindre",
+        "servicesOfInterest": "Services d'Intérêt",
+        "selectMultiple": "(Sélectionner plusieurs)",
+        "projectDescription": "Description du Projet",
+      "sendMessage": "Envoyer le Message",
+      "sending": "Envoi...",
+      "clear": "Effacer",
+      "thankYou": "Merci !",
+      "messageSent": "Votre message a été envoyé avec succès. Nous vous contacterons dans les 24 heures.",
+      "formCleared": "Formulaire effacé avec succès",
+      "failedToSend": "Échec de l'envoi du message. Veuillez réessayer.",
+      "placeholders": {
+        "fullName": "Entrez votre nom complet",
+        "email": "votre.email@entreprise.com",
+        "company": "Nom de Votre Entreprise",
+        "selectCountry": "Sélectionnez votre pays",
+        "selectServices": "Sélectionner les services...",
+        "selectCode": "Code",
+          "selectCodeFirst": "Sélectionnez d'abord le code pays",
+          "preferredDate": "Choisissez une date",
+          "preferredTime": "Sélectionnez une heure",
+          "projectDescription": "Parlez-nous de votre projet, des défis de données et de ce que vous cherchez à accomplir..."
+      },
+        "validation": {
+          "nameRequired": "Le nom est requis",
+          "emailRequired": "L'e-mail est requis",
+          "emailInvalid": "Adresse e-mail invalide",
+          "phoneRequired": "Le numéro de téléphone est requis",
+          "companyRequired": "Le nom de l'entreprise est requis",
+          "countryRequired": "Le pays est requis",
+          "countryCodeRequired": "Le code pays est requis",
+          "servicesRequired": "Veuillez sélectionner au moins un service",
+          "descriptionRequired": "La description du projet est requise",
+          "descriptionMinLength": "Veuillez fournir au moins 20 caractères",
+          "phoneTooShort": "Numéro de téléphone trop court",
+          "phoneTooLong": "Numéro de téléphone trop long",
+          "preferredDateRequired": "La date préférée est requise",
+          "preferredTimeRequired": "L'heure préférée est requise"
+        },
+      "services": {
+        "dataAnalytics": "Analyse de Données et IA",
+        "consulting": "Conseil d'Entreprise",
+        "financialIntelligence": "Intelligence Financière",
+        "marketResearch": "Recherche de Marché",
+        "performanceAnalysis": "Analyse de Performance",
+        "forecasting": "Prévisions et Prédictions",
+        "visualReporting": "Rapports Visuels et Tableaux de Bord",
+        "customReporting": "Solutions de Rapports Personnalisés",
+        "other": "Autres Services"
+      }
+    },
+    "images": {
+      "transformData": "Transformez Vos Données",
+      "transformDataDesc": "Solutions analytiques professionnelles qui stimulent la croissance des entreprises",
+      "businessIntelligence": "Conseil d'Entreprise",
+      "businessIntelligenceDesc": "Services de conseil avancés pour la prise de décision stratégique",
+      "expertTeam": "Équipe Experte",
+      "expertTeamDesc": "Approche collaborative pour des solutions basées sur les données"
+    }
+  },
+  "gallery": {
+    "title": "Projets d'Analyse Précédents",
+    "subtitle": "Explorez notre portefeuille d'implémentations d'analyse réussies et de solutions de tableaux de bord",
+    "projectSummary": "Résumé du Projet",
+    "outcomeAchieved": "Résultat Atteint",
+    "keyBenefits": "Avantages Clés",
+    "projectCounter": "Projet {{current}} sur {{total}}",
+    "dashboard1": {
+      "title": "Tableau de Bord Opérationnel",
+      "summary": "Nous avons développé un tableau de bord d'analyse opérationnelle complet pour rationaliser les processus métier et améliorer les capacités de prise de décision.",
+      "outcome": "Nous avons implémenté avec succès des systèmes de surveillance en temps réel qui ont réduit les coûts opérationnels de 25% et amélioré l'efficacité des processus.",
+      "benefits": "Visibilité améliorée sur les opérations, temps de réponse plus rapides et prise de décision basée sur les données dans tous les départements."
+    },
+    "dashboard2": {
+      "title": "Plateforme de Performance Financière",
+      "summary": "Nous avons créé une plateforme d'analyse financière intégrée pour fournir aux dirigeants des insights en temps réel sur les performances de l'entreprise et les prévisions.",
+      "outcome": "Nous avons livré une solution qui a amélioré la précision des rapports financiers de 40% et réduit le temps de rapport manuel de 60%.",
+      "benefits": "Rapports financiers automatisés, précision améliorée de la planification budgétaire et capacités de conformité réglementaire renforcées."
+    },
+    "dashboard3": {
+      "title": "Hub d'Analyse Client",
+      "summary": "Nous avons construit une plateforme d'analyse du comportement client pour aider à comprendre les parcours clients et optimiser les stratégies marketing.",
+      "outcome": "Nous avons atteint une augmentation de 35% des taux de rétention client et 50% d'amélioration de l'efficacité des campagnes marketing.",
+      "benefits": "Meilleure segmentation client, campagnes marketing personnalisées et scores de satisfaction client améliorés."
+    },
+    "dashboard4": {
+      "title": "Système d'Intelligence de Chaîne d'Approvisionnement",
+      "summary": "Nous avons implémenté une solution d'analyse de chaîne d'approvisionnement pour optimiser la gestion des stocks et réduire les goulots d'étranglement opérationnels.",
+      "outcome": "Nous avons livré 30% de réduction des coûts d'inventaire et 45% d'amélioration de la visibilité et réactivité de la chaîne d'approvisionnement.",
+      "benefits": "Niveaux de stock optimisés, ruptures de stock réduites, relations fournisseurs améliorées et résilience de chaîne d'approvisionnement renforcée."
+    }
+  },
+  "partners": {
+    "title": "Faisant Confiance À",
+    "leaders": "Leaders de l'Industrie",
+    "subtitle": "Des organisations leaders en Afrique et au-delà font confiance à ANDEDA pour leurs besoins en analyse de données, conseil d'entreprise et intelligence stratégique.",
+    "footer": "Rejoignez notre réseau croissant d'entreprises utilisant notre expertise en analyse et conseil pour aider leurs clients à réussir grâce aux données",
+    "logos": {
+      "techflowsolutions": "TechFlow Solutions",
+      "datavisionanalytics": "DataVision Analytics", 
+      "capitalbridgegroup": "Capital Bridge Group",
+      "medicore systems": "MediCore Systems", 
+      "swiftglobalpartners": "Swift Global Partners"
+    }
+  },
+  "platform": {
+    "development": "Actuellement en Développement",
+    "title": "Analytique Avancée",
+    "platform": "Plateforme",
+    "description": "Nous construisons une plateforme d'analytique de pointe qui révolutionnera la façon dont les entreprises prennent des décisions basées sur les données. Obtenez un aperçu exclusif de ce qui arrive.",
+    "features": {
+      "realtime": "Traitement des Données en Temps Réel",
+      "visualizations": "Visualisations Avancées",
+      "ai": "Insights Alimentés par l'IA"
+    },
+    "previewButton": "Aperçu de Notre Plateforme",
+    "joinPreview": "Rejoignez l'aperçu • Découvrez ce que nous construisons • Pas d'inscription requise"
+  },
+  "analytics": {
+    "underDevelopment": "Plateforme en Développement",
+    "title": "Analytique",
+    "subtitle": "Hub d'Analytique",
+    "coming": "Arrive Bientôt",
+    "description": "Nous construisons votre espace de travail d'analytique dédié où vous pouvez transformer vos données d'entreprise en insights exploitables. Découvrez ce que vous pourrez accomplir avec votre plateforme d'analytique personnelle.",
+    "buildingPlatform": "Construire pour vous",
+    "personalizedAnalytics": "Analytique Personnalisée",
+    "yourDataYourInsights": "Vos Données, Vos Insights",
+    "joinWaitlist": "Rejoindre la Liste d'Attente",
+    "previewDashboard": "Aperçu du Tableau de Bord",
+    "whatYouGet": "Ce Que Vous Obtiendrez",
+    "whenReady": "Quand Ce Sera Prêt",
+    "buildingDescription": "Notre équipe travaille dur à créer ces fonctionnalités puissantes qui transformeront la façon dont vous analysez et visualisez vos données d'entreprise.",
+    "features": {
+      "status": "Statut",
+      "earlyDevelopment": "Début du Développement",
+      "initialDevelopment": "Développement Initial",
+      "planningPhase": "Phase de Planification",
+      "researchPhase": "Phase de Recherche",
+      "designPhase": "Phase de Conception",
+      "realTimeDashboard": {
+        "title": "Tableau de Bord en Temps Réel",
+        "description": "Suivi en direct des métriques clés de l'entreprise avec mises à jour et alertes instantanées."
+      },
+      "customerManagement": {
+        "title": "Gestion des Clients",
+        "description": "Suivez les interactions, l'historique et les préférences des clients en un seul endroit."
+      },
+      "dataImport": {
+        "title": "Outils d'Importation de Données",
+        "description": "Importez facilement des données de diverses sources avec formatage automatique."
+      },
+      "excelIntegration": {
+        "title": "Intégration Excel",
+        "description": "Synchronisation bidirectionnelle transparente avec Microsoft Excel pour des flux de travail familiers."
+      },
+      "dataEntry": {
+        "title": "Formulaires de Saisie de Données",
+        "description": "Formulaires personnalisés pour la collecte structurée de données dans toute votre organisation."
+      },
+      "smartInsights": {
+        "title": "IA Moteur d'Insights Intelligents",
+        "description": "Analyse alimentée par l'IA qui met en évidence les tendances et les opportunités."
+      },
+      "customViews": {
+        "title": "Vues de Rapports Personnalisées",
+        "description": "Créez et enregistrez des tableaux de bord personnalisés pour différents besoins."
+      },
+      "dataSecurity": {
+        "title": "Sécurité Avancée des Données",
+        "description": "Sécurité de niveau entreprise pour protéger vos données commerciales sensibles."
+      },
+      "globalAccess": {
+        "title": "Accès Global",
+        "description": "Accédez à votre tableau de bord d'analytique de n'importe où sur n'importe quel appareil."
+      }
+    },
+    "completeAnalyticsSuite": "Complète",
+    "analyticsSuite": "Suite d'Analytique",
+    "analyticsSuiteDescription": "Notre plateforme offrira des capacités d'analytique complètes adaptées aux besoins de votre entreprise. Voici un aperçu de ce à quoi vous pouvez vous attendre.",
+    "capabilities": {
+      "dataProcessing": "Traitement des Données",
+      "dashboardSpeed": "Vitesse du Tableau de Bord",
+      "platformUptime": "Temps de Fonctionnement de la Plateforme",
+      "dataProtection": "Protection des Données",
+      "userExperience": "Expérience Utilisateur",
+      "dataSources": "Sources de Données",
+      "fastReliable": "Rapide et Fiable",
+      "instantUpdates": "Mises à Jour Instantanées",
+      "alwaysAvailable": "Toujours Disponible",
+      "completelySecure": "Complètement Sécurisé",
+      "simpleIntuitive": "Simple et Intuitif",
+      "multipleConnections": "Connexions Multiples"
+    },
+    "analyticsPreview": "Aperçu d'Analytique",
+    "previewMode": "Mode Aperçu",
+    "chartsComingSoon": "Graphiques Interactifs Bientôt Disponibles",
+    "yourGrowth": "Votre Croissance",
+    "yourCustomers": "Vos Clients",
+    "yourDataQuality": "Qualité des Données",
+    "platformInDevelopment": "Plateforme en développement actif",
+    "personalizedExperience": "Nous créons une expérience personnalisée juste pour vous",
+    "professionalBI": "Tableau de Bord Professionnel",
+    "businessIntelligence": "Insights",
+    "biDescription": "Transformez vos données en insights exploitables avec notre plateforme analytique, conçue spécifiquement pour vos besoins uniques.",
+    "liveDashboard": "Tableau de Bord en Direct",
+    "watchBusinessData": "Observez vos données commerciales se mettre à jour en temps réel",
+    "smartSuggestions": "IA Suggestions",
+    "personalizedInsights": "Obtenez des insights et recommandations personnalisés",
+    "dataVisualization": "Visualisation de Données",
+    "visualizeYourData": "Visualisez vos données de manière significative",
+    "teamCollaboration": "Collaboration d'Équipe",
+    "workTogether": "Travaillez ensemble avec votre équipe sur l'analytique",
+    "businessDataSecure": "Gardez vos données commerciales sécurisées et protégées",
+    "globalAccess": "Accès Global",
+    "accessFromAnywhere": "Accédez à votre analytique de n'importe où, à tout moment",
+    "getEarlyAccess": "Obtenir un Accès Anticipé",
+    "joinWaitlistDescription": "Rejoignez notre liste d'attente pour être parmi les premiers à essayer notre nouvelle plateforme d'analytique lors de son lancement.",
+    "viewFullPlatform": "Voir la Plateforme d'Analyse Complète",
+    "requestDemo": "Demander une Démo",
+    "completeAnalyticsSuite": "Suite d'Analyse Complète",
+    "transformBusinessIntelligence": "Transformez votre conseil d'entreprise avec notre plateforme d'analyse complète conçue pour les performances et insights de niveau entreprise.",
+    "analyticsPreview": "Aperçu d'Analyse",
+    "liveDemo": "Démo en Direct",
+    "interactiveChartsComingSoon": "Graphiques Interactifs Bientôt Disponibles",
+    "growth": "Croissance",
+    "users": "Utilisateurs",
+    "accuracy": "Précision"
+  },
+  "homeContact": {
+    "getIn": "Entrer en",
+    "touch": "Contact",
+    "readyToTransform": "Prêt à transformer vos données en avantage stratégique ? Discutons de la façon dont ANDEDA peut aider votre organisation à prospérer.",
+    "scheduleConsultation": "Programmer une Consultation",
+    "bookConsultation": "Prêt à transformer vos données en avantage stratégique ? Réservez une consultation avec nos experts.",
+    "bookYourConsultation": "Réservez Votre Consultation",
+    "scheduleWithExperts": "Planifiez votre consultation avec nos experts en analytique.",
+    "scheduleConsultationButton": "Programmer une Consultation",
+    "businessHours": "Heures d'Ouverture",
+    "mondayFriday": "Lundi - Vendredi : 9h00 - 17h00",
+    "weekendClosed": "Samedi - Dimanche : Fermé",
+    "whatsappUs": "Contactez-nous sur WhatsApp",
+    "emailUs": "Envoyez-nous un Email",
+    "preferImmediate": "Vous préférez une assistance immédiate ? Utilisez WhatsApp ou email pour les questions urgentes."
+  },
+  "footer": {
+    "description": "Nous Transformons Vos Données en Avantage Stratégique. Nous autonomisons les décideurs grâce à des analyses fiables, du conseil d'entreprise et des insights stratégiques.",
+    "services": {
+      "title": "Services",
+      "dataAnalytics": "Analyse de Données",
+      "businessConsulting": "Conseil d'Entreprise",
+      "businessIntelligence": "Conseil d'Entreprise",
+      "financialIntelligence": "Intelligence Financière",
+      "marketResearch": "Recherche de Marché et Stratégie"
+    },
+    "company": {
+      "title": "Entreprise",
+      "aboutUs": "À Propos de Nous",
+      "contact": "Contactez-Nous",
+      "privacyPolicy": "Politique de Confidentialité",
+      "termsOfService": "Conditions d'Utilisation"
+    },
+    "contactInfo": {
+      "title": "Informations de Contact",
+      "location": {
+        "line1": "Banapa, Malabo",
+        "line2": "Guinée Équatoriale"
+      },
+      "email": "andeda1@outlook.com",
+      "phone": "+240 222 108 272"
+    },
+    "copyright": "© {{year}} ANDEDA Analytics & Consulting. Tous droits réservés."
+  },
+  "privacyPolicy": {
+    "title": "Politique de Confidentialité",
+    "subtitle": "Votre confidentialité est importante pour nous. Cette politique explique comment nous collectons, utilisons et protégeons vos informations.",
+    "lastUpdated": "Dernière mise à jour : {{date}}",
+    "sections": {
+      "informationWeCollect": {
+        "title": "Informations que Nous Collectons",
+        "personalInfo": {
+          "title": "Informations Personnelles",
+          "description": "Lorsque vous nous contactez ou utilisez nos services, nous pouvons collecter :",
+          "items": [
+            "Nom et informations de contact (email, numéro de téléphone)",
+            "Détails de l'entreprise ou de l'organisation",
+            "Titre professionnel et informations commerciales",
+            "Préférences de communication"
+          ]
+        },
+        "businessData": {
+          "title": "Données Commerciales",
+          "description": "Pour nos services d'analytique et de conseil :",
+          "items": [
+            "Données de performance commerciale (avec votre consentement explicite)",
+            "Exigences et objectifs d'analytique",
+            "Informations spécifiques à l'industrie",
+            "Préférences de traitement des données"
+          ]
+        }
+      },
+      "howWeUse": {
+        "title": "Comment Nous Utilisons Vos Informations",
+        "description": "Nous utilisons les informations que nous collectons pour :",
+        "items": [
+          "Fournir des services d'analytique de données et de conseil d'entreprise",
+          "Communiquer sur les projets et les mises à jour de services",
+          "Programmer des consultations et des réunions d'affaires",
+          "Améliorer nos services et développer de nouvelles solutions",
+          "Se conformer aux exigences légales et réglementaires",
+          "Envoyer des insights commerciaux pertinents et des mises à jour de l'industrie (avec votre consentement)"
+        ]
+      },
+      "dataProtection": {
+        "title": "Protection et Sécurité des Données",
+        "description": "Chez ANDEDA, nous mettons en place des mesures de sécurité robustes pour protéger vos données :",
+        "items": [
+          "Transmission et stockage de données chiffrées",
+          "Contrôles d'accès et protocoles d'authentification",
+          "Audits et mises à jour de sécurité réguliers",
+          "Environnements de traitement de données sécurisés",
+          "Accès limité sur une base de besoin de savoir",
+          "Élimination sécurisée des données lorsqu'elles ne sont plus nécessaires"
+        ]
+      },
+      "dataSharing": {
+        "title": "Partage de Données et Tiers",
+        "description": "Nous ne vendons ni ne louons vos informations personnelles. Nous pouvons partager des informations uniquement dans ces circonstances :",
+        "items": [
+          "Avec votre consentement explicite",
+          "Avec des fournisseurs de services de confiance sous des accords de confidentialité stricts",
+          "Lorsque requis par la loi ou un processus légal",
+          "Pour protéger nos droits ou la sécurité d'autrui",
+          "En relation avec des transferts d'entreprise (avec avis à vous)"
+        ]
+      },
+      "yourRights": {
+        "title": "Vos Droits",
+        "description": "Vous avez le droit de :",
+        "items": [
+          "Accéder aux informations personnelles que nous détenons sur vous",
+          "Demander la correction d'informations inexactes",
+          "Demander la suppression de vos informations personnelles",
+          "Vous opposer au traitement de vos informations",
+          "Demander la portabilité des données",
+          "Retirer votre consentement à tout moment",
+          "Déposer une plainte auprès des autorités compétentes"
+        ]
+      },
+      "dataRetention": {
+        "title": "Rétention des Données",
+        "description": "Nous conservons vos informations seulement aussi longtemps que nécessaire pour :",
+        "items": [
+          "Fournir nos services",
+          "Répondre aux exigences légales et réglementaires",
+          "Résoudre les disputes et faire respecter les accords",
+          "Besoins opérationnels de l'entreprise (typiquement 3-7 ans)"
+        ]
+      },
+      "internationalTransfers": {
+        "title": "Transferts Internationaux de Données",
+        "description": "En tant qu'entreprise basée en Guinée Équatoriale, nous pouvons traiter les données localement et avec des partenaires internationaux de confiance. Nous nous assurons que des garanties appropriées sont en place pour tout transfert de données transfrontalier, y compris le chiffrement et les protections contractuelles qui répondent aux normes internationales."
+      },
+      "contact": {
+        "title": "Nous Contacter Concernant la Confidentialité",
+        "description": "Si vous avez des questions sur cette Politique de Confidentialité ou sur la façon dont nous traitons vos données :"
+      },
+      "policyUpdates": {
+        "title": "Mises à Jour de la Politique",
+        "description": "Nous pouvons mettre à jour cette Politique de Confidentialité de temps en temps. Nous vous informerons de tout changement important par email ou via notre site web. Votre utilisation continue de nos services après les changements constitue une acceptation de la politique mise à jour."
+      }
+    }
+  },
+  "termsOfService": {
+    "title": "Conditions d'Utilisation",
+    "subtitle": "Ces conditions régissent votre utilisation des services d'analytique et de conseil d'ANDEDA.",
+    "lastUpdated": "Dernière mise à jour : {{date}}",
+    "sections": {
+      "agreementToTerms": {
+        "title": "Accord aux Conditions",
+        "description": "En accédant ou en utilisant les services d'ANDEDA, vous acceptez d'être lié par ces Conditions d'Utilisation et toutes les lois et réglementations applicables. Si vous n'êtes pas d'accord avec l'une de ces conditions, il vous est interdit d'utiliser nos services.",
+        "additionalInfo": "Ces conditions s'appliquent à tous les utilisateurs de nos services, y compris les clients, les visiteurs du site web et les participants aux consultations."
+      },
+      "servicesDescription": {
+        "title": "Nos Services",
+        "description": "ANDEDA fournit :",
+        "items": [
+          "Conseil en Analytique de Données et Conseil d'Entreprise",
+          "Services d'Intelligence Financière et de Recherche de Marché",
+          "Développement personnalisé de rapports et tableaux de bord",
+          "Consultation et planification stratégique d'entreprise",
+          "Analyse de performance et prévisions",
+          "Solutions de visualisation et de rapport de données"
+        ],
+        "additionalInfo": "Les services sont fournis sur la base d'accords individuels et de portées de projet définies dans des contrats de service séparés."
+      },
+      "userResponsibilities": {
+        "title": "Responsabilités de l'Utilisateur",
+        "description": "En utilisant nos services, vous acceptez de :",
+        "items": [
+          "Fournir des informations exactes et complètes",
+          "Maintenir la confidentialité de toutes les identifiants de connexion",
+          "Utiliser nos services uniquement à des fins commerciales légitimes",
+          "Se conformer à toutes les lois et réglementations applicables",
+          "Respecter les droits de propriété intellectuelle",
+          "Ne pas interférer avec ou perturber nos services",
+          "Ne pas utiliser nos services à des fins illégales ou interdites"
+        ]
+      },
+      "dataConfidentiality": {
+        "title": "Données et Confidentialité",
+        "clientDataProtection": {
+          "title": "Protection des Données Client",
+          "description": "Nous maintenons une stricte confidentialité concernant toutes les données client et informations commerciales. Toutes les données sont traitées selon notre Politique de Confidentialité et les lois applicables de protection des données."
+        },
+        "nonDisclosure": {
+          "title": "Non-Divulgation",
+          "description": "Les deux parties acceptent de maintenir la confidentialité de toutes les informations propriétaires partagées au cours de notre relation commerciale. Cela inclut les stratégies commerciales, les insights de données, les méthodologies et autres informations sensibles."
+        }
+      },
+      "paymentTerms": {
+        "title": "Conditions de Paiement",
+        "items": [
+          "Les frais sont spécifiés dans les accords de service individuels",
+          "Les conditions de paiement sont typiquement de 30 jours à partir de la date de facturation",
+          "Les paiements en retard peuvent entraîner des frais supplémentaires",
+          "Tous les frais ne sont pas remboursables sauf indication contraire",
+          "La devise et les méthodes de paiement seront spécifiées dans les contrats",
+          "Les frais contestés doivent être signalés dans les 30 jours"
+        ]
+      },
+      "intellectualProperty": {
+        "title": "Propriété Intellectuelle",
+        "andedaProperty": {
+          "title": "Propriété d'ANDEDA",
+          "description": "Toutes les méthodologies, cadres analytiques, outils logiciels et insights généraux développés par ANDEDA restent notre propriété intellectuelle."
+        },
+        "clientProperty": {
+          "title": "Propriété du Client",
+          "description": "Toutes les données client et insights spécifiques au client restent la propriété du client. Nous ne revendiquons pas la propriété de vos données commerciales."
+        },
+        "deliverables": {
+          "title": "Livrables",
+          "description": "Après paiement intégral, les clients reçoivent tous les droits d'utiliser les livrables (rapports, tableaux de bord, etc.) à des fins commerciales."
+        }
+      },
+      "serviceLimitations": {
+        "title": "Limitations du Service",
+        "items": [
+          "Les services sont fournis pendant les heures ouvrables (Lun-Ven, 9h-17h GMT+1)",
+          "Les temps de réponse aux demandes sont typiquement de 24-48 heures",
+          "Le support d'urgence est disponible avec des arrangements préalables",
+          "Les calendriers de projet sont convenus dans les contrats individuels",
+          "Nous nous réservons le droit de refuser le service pour toute raison",
+          "La disponibilité du service peut être affectée par la maintenance technique"
+        ]
+      },
+      "disclaimers": {
+        "title": "Avertissements et Limitations",
+        "serviceWarranty": {
+          "title": "Garantie de Service",
+          "description": "Bien que nous nous efforcions d'atteindre la précision, nos analyses et recommandations sont basées sur les données disponibles et les meilleures pratiques de l'industrie. Nous ne pouvons pas garantir des résultats commerciaux spécifiques."
+        },
+        "limitationOfLiability": {
+          "title": "Limitation de Responsabilité",
+          "description": "La responsabilité d'ANDEDA est limitée au montant payé pour les services. Nous ne sommes pas responsables des dommages indirects, incidents, spéciaux ou consécutifs découlant de l'utilisation de nos services."
+        }
+      },
+      "termination": {
+        "title": "Résiliation",
+        "description": "L'une ou l'autre partie peut résilier les services avec un préavis écrit comme spécifié dans les accords de service individuels. Lors de la résiliation :",
+        "items": [
+          "Tous les paiements en souffrance deviennent immédiatement dus",
+          "Les obligations de confidentialité continuent indéfiniment",
+          "Le client conserve les droits sur les livrables terminés",
+          "Le travail en cours peut être livré sur une base proportionnelle",
+          "Les deux parties doivent retourner les matériaux confidentiels"
+        ]
+      },
+      "governingLaw": {
+        "title": "Loi Applicable",
+        "description": "Ces Conditions d'Utilisation sont régies par les lois de la Guinée Équatoriale. Tout différend découlant de ces conditions ou de nos services sera résolu par négociation de bonne foi ou, si nécessaire, par les voies légales appropriées en Guinée Équatoriale."
+      },
+      "contact": {
+        "title": "Questions sur les Conditions",
+        "description": "Si vous avez des questions sur ces Conditions d'Utilisation :"
+      }
+    }
+  },
+  "waitlist": {
+    "title": "Rejoindre la Liste d'Attente Analytique",
+    "subtitle": "Soyez le premier à accéder à notre plateforme d'analyse avancée lors de son lancement!",
+    "thankYouMessage": "Merci de vous joindre! Nous vous informerons dès que notre plateforme d'analyse sera prête.",
+    "yourRole": "Votre Rôle",
+    "selectRole": "Sélectionnez votre rôle",
+    "primaryInterest": "Intérêt Principal",
+    "selectMultiple": "Sélectionner plusieurs",
+    "servicesSelected": "service{{s}} sélectionné{{s}}",
+    "additionalComments": "Commentaires Additionnels",
+    "commentsPlaceholder": "Parlez-nous de vos besoins spécifiques en analytique ou défis...",
+    "joiningWaitlist": "Rejoindre la Liste...",
+    "joinWaitlist": "Rejoindre la Liste",
+    "roles": {
+      "ceo": "PDG/Fondateur",
+      "cto": "CTO",
+      "dataAnalyst": "Analyste de Données",
+      "businessAnalyst": "Analyste d'Affaires",
+      "marketingManager": "Directeur Marketing",
+      "productManager": "Chef de Produit",
+      "consultant": "Consultant",
+      "other": "Autre"
+    }
+  },
+  "notFound": {
+    "message": "Oups! Page non trouvée",
+    "returnHome": "Retour à l'Accueil"
+  }
+}
