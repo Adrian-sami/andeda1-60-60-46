@@ -104,15 +104,11 @@ export const TrustedPartners = () => {
                     md:w-80 md:h-52 
                     lg:w-96 lg:h-64 
                     p-3 sm:p-4 md:p-5 lg:p-6">
-                      <div className="bg-background rounded-md w-full h-full flex items-center justify-center shadow-inner p-2 sm:p-3 md:p-4 lg:p-5">
+                      <div className="bg-white rounded-md w-full h-full flex items-center justify-center shadow-inner p-2 sm:p-3 md:p-4 lg:p-5">
                         <img 
                           src={partner.logo} 
                           alt={`${partner.name} - Trusted partner logo`} 
-                          className="object-contain w-full h-full 
-                          max-w-[200px] max-h-[120px] 
-                          sm:max-w-[240px] sm:max-h-[140px] 
-                          md:max-w-[280px] md:max-h-[160px] 
-                          lg:max-w-[320px] lg:max-h-[180px]" 
+                          className="object-cover w-full h-full scale-110" 
                           loading="lazy"
                           decoding="async"
                           draggable="false"
