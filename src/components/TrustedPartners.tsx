@@ -1,10 +1,10 @@
 import { useEffect, useState } from 'react';
 import { useTranslation } from 'react-i18next';
 import { ChevronLeft, ChevronRight } from 'lucide-react';
-import dasmedhubLogo from '/lovable-uploads/73486e03-bc31-46df-961b-8dfbfba0645f.png';
-import empresadeLogo from '/lovable-uploads/2053a794-d568-4e1d-a370-cb0ffcddb579.png';
-import sentravelLogo from '/lovable-uploads/8e666208-6364-44a4-99a0-f95f6ae1803f.png';
-import vendeloLogo from '/lovable-uploads/208ad80e-e281-44a1-b0d2-d431de2ada2e.png';
+import dasmedhubLogo from '/lovable-uploads/a89de76e-82d4-4f44-b07b-86ae327783eb.png';
+import empresadeLogo from '/lovable-uploads/f7875f34-4502-4711-abf7-4f114d9db164.png';
+import sentravelLogo from '/lovable-uploads/54dff071-b280-40f2-9946-77a9309f7b86.png';
+import vendeloLogo from '/lovable-uploads/bfb8e506-55d4-4845-94d2-3d4e340dd36c.png';
 
 const partners = [
   { 
