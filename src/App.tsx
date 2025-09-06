@@ -5,7 +5,7 @@ import { QueryClient, QueryClientProvider } from "@tanstack/react-query";
 import { HashRouter, Routes, Route } from "react-router-dom";
 import { ScrollToTop } from "@/components/ScrollToTop";
 import { ErrorBoundary } from "@/components/ErrorBoundary";
-import { lazy, Suspense } from "react";
+import { Suspense } from "react";
 import { HelmetProvider } from "react-helmet-async";
 
 import Index from "./pages/Index";
@@ -16,15 +16,11 @@ import Contact from "./pages/Contact";
 import PrivacyPolicy from "./pages/PrivacyPolicy";
 import TermsOfService from "./pages/TermsOfService";
 import NotFound from "./pages/NotFound";
+import { FloatingScrollButton } from "./components/FloatingScrollButton";
+import { WhatsAppButton } from "./components/WhatsAppButton";
 
 
-// Defer non-critical floating UI to speed up initial render
-const FloatingScrollButton = lazy(() =>
-  import("./components/FloatingScrollButton").then((m) => ({ default: m.FloatingScrollButton }))
-);
-const WhatsAppButton = lazy(() =>
-  import("./components/WhatsAppButton").then((m) => ({ default: m.WhatsAppButton }))
-);
+// Floating UI loaded eagerly to avoid dynamic import issues
 
 // Prefetch route chunks in the background to avoid Suspense delays
 if (typeof window !== "undefined") {
@@ -88,10 +84,8 @@ const App = () => (
                 </Routes>
               </Suspense>
             </ErrorBoundary>
-            <Suspense fallback={null}>
-              <WhatsAppButton />
-              <FloatingScrollButton />
-            </Suspense>
+            <WhatsAppButton />
+            <FloatingScrollButton />
           </HashRouter>
         </HelmetProvider>
       </TooltipProvider>

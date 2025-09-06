@@ -77,10 +77,10 @@ export class ErrorBoundary extends React.Component<ErrorBoundaryProps, ErrorBoun
                 Try Again
               </Button>
               <Button asChild variant="outline" size="sm">
-                <Link to="/">
+                <a href="/">
                   <Home className="w-4 h-4 mr-2" />
                   Go Home
-                </Link>
+                </a>
               </Button>
             </div>
           </div>
