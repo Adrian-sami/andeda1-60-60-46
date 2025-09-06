@@ -1,10 +1,11 @@
 import { useEffect, useState } from 'react';
 import { useTranslation } from 'react-i18next';
 import { ChevronLeft, ChevronRight } from 'lucide-react';
-import dasmedhubLogo from '/lovable-uploads/f5b8c081-0688-476f-9a9b-bd478ea14c14.png';
-import empresadeLogo from '/lovable-uploads/7a3a7f11-19a9-4dd7-870c-0d44a297ea22.png';
-import sentravelLogo from '/lovable-uploads/0b51faee-4301-4a6e-a760-c989e686526a.png';
-import vendeloLogo from '/lovable-uploads/6bd994ca-7eae-4f35-9232-77596c9a0fa7.png';
+const base = import.meta.env.BASE_URL;
+const dasmedhubLogo = `${base}lovable-uploads/f5b8c081-0688-476f-9a9b-bd478ea14c14.png`;
+const empresadeLogo = `${base}lovable-uploads/7a3a7f11-19a9-4dd7-870c-0d44a297ea22.png`;
+const sentravelLogo = `${base}lovable-uploads/0b51faee-4301-4a6e-a760-c989e686526a.png`;
+const vendeloLogo = `${base}lovable-uploads/6bd994ca-7eae-4f35-9232-77596c9a0fa7.png`;
 
 const partners = [
   { 

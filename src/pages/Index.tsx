@@ -33,7 +33,7 @@ const Index = () => {
               "@type": "Organization",
               "name": "ANDEDA Analytics & Consulting",
               "url": typeof window !== 'undefined' ? window.location.origin : undefined,
-              "logo": typeof window !== 'undefined' ? `${window.location.origin}/lovable-uploads/19f2777a-37a9-4b6c-9701-d837eef94ced.png` : undefined
+              "logo": typeof window !== 'undefined' ? `${window.location.origin}${import.meta.env.BASE_URL}lovable-uploads/19f2777a-37a9-4b6c-9701-d837eef94ced.png` : undefined
             },
             {
               "@context": "https://schema.org",

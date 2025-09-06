@@ -44,7 +44,7 @@ const About = () => {
               {/* Logo */}
               <div className="mb-2 flex justify-center">
                 <img
-                  src="/lovable-uploads/8faccaae-b45c-41f5-bdf6-50df9a3f3d85.png"
+                  src={`${import.meta.env.BASE_URL}lovable-uploads/8faccaae-b45c-41f5-bdf6-50df9a3f3d85.png`}
                   alt="ANDEDA logo"
                   loading="eager"
                   className="h-32 md:h-44 lg:h-52 w-auto drop-shadow-lg"

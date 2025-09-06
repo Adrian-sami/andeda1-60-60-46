@@ -6,7 +6,7 @@ import { componentTagger } from "lovable-tagger";
 // https://vitejs.dev/config/
 export default defineConfig(({ mode }) => ({
   // Set base path - use "/" for custom domain hosting
-  base: process.env.GH_PAGES === '1' ? '/Andeda/' : '/',
+  base: process.env.GH_PAGES === '1' ? './' : '/',
   server: {
     host: "::",
     port: 8080,

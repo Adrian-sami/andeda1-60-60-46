@@ -10,7 +10,7 @@ export const Logo = ({ className = "", showText = false }: LogoProps) => {
     <div className={`flex items-center ${className}`}>
       {/* Logo Image with transparent background */}
       <img 
-        src="/lovable-uploads/29ebc4a4-c417-44e8-8077-e78d71b25ac7.png"
+        src={`${import.meta.env.BASE_URL}lovable-uploads/29ebc4a4-c417-44e8-8077-e78d71b25ac7.png`}
         alt="ANDEDA logo"
         className="h-32 md:h-28 lg:h-40 w-auto"
         loading="eager"
